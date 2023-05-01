@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Nopcommerce">
+<suite name="NopCommerce">
 
-  <test name="Run on chrome">
-    <classes>
-      <class name="com.nopcommerce.user.User_01_Register_Login"/>
-    </classes>
-  </test> <!-- Test -->
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+	</listeners>
+
+	<test name="Run on chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.nopcommerce.user.Lv1_User_01_Register_DRY" />
+		</classes>
+	</test> <!-- Test -->
+	
 </suite> <!-- Suite -->
