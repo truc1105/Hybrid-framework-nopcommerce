@@ -43,23 +43,37 @@ public class Lv_14_Log_ReportNG extends BaseTest{
 	}
 
 	@Test
-	public void User_01_Register_Login() {
-		
+	public void User_01_Register() {
+		log.info("Register - Step 01: Navigate to 'Register' page");
 		registerPage = homePage.clickToRegisterLink();
 		
+		log.info("Register - Step 02: Enter to First name textbox with value is " + firstName);
 		registerPage.inputToFirstnameTextbox(firstName);
+		
+		log.info("Register - Step 03: Enter to Last name textbox with value is " + lastName);
 		registerPage.inputToLastnameTextbox(lastName);
+		
+		log.info("Register - Step 04: Enter to Email address textbox with value is " + EmailAddress);
 		registerPage.inputToEmailTextbox(EmailAddress);
 		registerPage.inputToPasswordTextbox(password);
 		registerPage.inputToConfirmPasswordTextbox(password);
 		
+		log.info("Register - Step 07: Click to 'Register' buttom");
 		registerPage.clickToRegisterButton();
 		
-		Assert.assertEquals(registerPage.getRegisterSuccessMessage(), "Your registration completed");
-
+		log.info("Register - Step 08: Verify Register success message.");
+		verifyEquals(registerPage.getRegisterSuccessMessage(), "Your registration completed..");
+	}
+	
+	@Test
+	public void User_02_Login() {
+		log.info("Login - Step 01: Navigate to Login page");
 		loginPage = homePage.clickToLoginLink();
 		
+		log.info("Login - Step 02: Enter to Email address textbox with value is " + EmailAddress);
 		loginPage.inputToEmailTextbox(EmailAddress);
+		
+		log.info("Login - Step 03: Enter to Password textbox with value is " + password);
 		loginPage.inputToPasswordTextbox(password);
 
 		homePage = loginPage.clickToLoginButton();
