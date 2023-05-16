@@ -42,7 +42,7 @@ public class Lv11_Upload_Files extends BaseTest{
 
 	@Test
 	public void Upload_02_Multiple_File_Per_Time() {
-		homePage.RefreshCurrentPage(driver, null);
+		homePage.refreshCurrentPage(driver);
 		
 		homePage.uploadMultipleFiles(driver, multipleFileNames);
 		Assert.assertTrue(homePage.isFileLoadingByName(imageUpl));

@@ -47,7 +47,7 @@ public class Lv10_DataTable_DataGrid extends BaseTest{
 
 	
 	public void Table_02_Enter_To_Header() {
-		homePage.RefreshCurrentPage(driver, null);
+		homePage.refreshCurrentPage(driver);
 		
 		homePage.enterToHeaderTextboxByLabel("Country", "Aruba");
 		homePage.enterToHeaderTextboxByLabel("Females", "750");

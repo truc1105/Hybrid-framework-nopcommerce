@@ -10,7 +10,7 @@
 	<test name="Run on FIREFOX">
 		<parameter name="browser" value="firefox" />
 		<classes>
-			<class name="com.nopcommerce.user.Lv8_Switch_Role" />
+			<class name="com.nopcommerce.user.Lv_14_Log_ReportNG" />
 		</classes>
 	</test> <!-- Test -->
 	
