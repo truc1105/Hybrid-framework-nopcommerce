@@ -27,6 +27,9 @@ import pageObjects.nopCommerce.user.UserHomePageObject;
 import pageObjects.nopCommerce.user.UserMyAccountPageObject;
 import pageObjects.nopCommerce.user.UserMyProductReviewsPageObject;
 import pageObjects.nopCommerce.user.UserRewardPointsPageObject;
+import pageObjects.wordpress.AdminDashboardPO;
+import pageObjects.wordpress.PageGeneratorManagerWP;
+import pageObjects.wordpress.UserHomePO;
 import pageUIs.jquery.uploadFiles.BasePageJQueryUI;
 import pageUIs.nopCommerce.user.BasePageUI;
 import pageUIs.nopCommerce.user.HomePageUI;
@@ -186,6 +189,11 @@ public class BasePage {
 		element.sendKeys(textValue);
 	}
 	
+	public void clearValueInElementByDeleteKey(WebDriver driver, String locatorType) {
+		WebElement element = this.getWebElement(driver, locatorType);
+		element.sendKeys(Keys.chord(Keys.CONTROL, "a", Keys.DELETE));
+	}
+	
 	public void sendkeysToElement(WebDriver driver, String locatorType, String textValue, String... dynamicValues) {
 		WebElement element = getWebElement(driver, getDynamicXpath(locatorType, dynamicValues));
 		element.clear();
@@ -303,6 +311,20 @@ public class BasePage {
 	public boolean isElementUndisplayed(WebDriver driver, String locator) {
 		overrideImplicitTimeout(driver, shortTimeout);
 		List<WebElement> elements = getListWebElement(driver, locator); 
+		overrideImplicitTimeout(driver, longTimeout);
+		
+		if(elements.size() == 0) {
+			return true; //element k co trong Dom
+		}else if (elements.size()>0 && !elements.get(0).isDisplayed()){ //phan tu thu 0 k display
+			return true; //element có trong Dom but k display
+		}else {
+			return false; //element co trong Dom va display
+		}
+	}
+	
+	public boolean isElementUndisplayed(WebDriver driver, String locator, String...dynamicValues) {
+		overrideImplicitTimeout(driver, shortTimeout);
+		List<WebElement> elements = getListWebElement(driver, getDynamicXpath(locator, dynamicValues)); 
 		overrideImplicitTimeout(driver, longTimeout);
 		
 		if(elements.size() == 0) {
@@ -448,6 +470,11 @@ public class BasePage {
 	public void waitForElementInvisible(WebDriver driver, String locatorType) {
 		WebDriverWait explicitWait = new WebDriverWait(driver, longTimeout);
 		explicitWait.until(ExpectedConditions.invisibilityOfElementLocated(getByLocator(locatorType)));
+	}
+	
+	public void waitForElementInvisible(WebDriver driver, String locatorType, String...dynamicValues) {
+		WebDriverWait explicitWait = new WebDriverWait(driver, longTimeout);
+		explicitWait.until(ExpectedConditions.invisibilityOfElementLocated(getByLocator(getDynamicXpath(locatorType, dynamicValues))));
 	}
 	
 	/*
@@ -600,6 +627,16 @@ public class BasePage {
 		waitForElementClickable(driver, BasePageUI.LOGOUT_LINK_AT_ADMIN);
 		clickToElement(driver, BasePageUI.LOGOUT_LINK_AT_ADMIN);
 		return PageGeneratorManager.getAdminLoginPage(driver);
+	}
+	
+	public UserHomePO openEndUserSite(WebDriver driver, String endUserUrl) {
+		openPageURL(driver, endUserUrl);
+		return PageGeneratorManagerWP.getUserHomePageWP(driver);
+	}
+	
+	public AdminDashboardPO openAdminSite(WebDriver driver, String adminUrl) {
+		openPageURL(driver, adminUrl);
+		return PageGeneratorManagerWP.getAdminDashboardPage(driver);
 	}
 	
 	public void sleepInSecond(long timeInSecond) {

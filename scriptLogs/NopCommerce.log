@@ -1,0 +1,2182 @@
+[INFO ] [2023-05-04 14:46:25,347] Register - Step 01: Navigate to 'Register' page
+[INFO ] [2023-05-04 14:46:25,881] Register - Step 02: Enter to First name textbox with value is Automation
+[INFO ] [2023-05-04 14:46:26,017] Register - Step 03: Enter to Last name textbox with value is Test
+[INFO ] [2023-05-04 14:46:26,141] Register - Step 04: Enter to Email address textbox with value is AutomationFC_8471@gmail.com
+[INFO ] [2023-05-04 14:46:26,496] Register - Step 07: Click to 'Register' buttom
+[INFO ] [2023-05-04 14:46:27,760] Login - Step 01: Navigate to Login page
+[INFO ] [2023-05-04 14:46:28,223] Login - Step 02: Enter to Email address textbox with value is AutomationFC_8471@gmail.com
+[INFO ] [2023-05-04 14:46:28,343] Login - Step 03: Enter to Password textbox with value is 123456789
+[INFO ] [2023-05-04 15:10:34,343] Register - Step 01: Navigate to 'Register' page
+[INFO ] [2023-05-04 15:10:34,891] Register - Step 02: Enter to First name textbox with value is Automation
+[INFO ] [2023-05-04 15:10:35,018] Register - Step 03: Enter to Last name textbox with value is Test
+[INFO ] [2023-05-04 15:10:35,134] Register - Step 04: Enter to Email address textbox with value is AutomationFC_4422@gmail.com
+[INFO ] [2023-05-04 15:10:35,485] Register - Step 07: Click to 'Register' buttom
+[INFO ] [2023-05-04 15:10:36,764] Register - Step 08: Verify Register success message.
+[INFO ] [2023-05-04 15:10:36,820] Login - Step 01: Navigate to Login page
+[INFO ] [2023-05-04 15:10:37,215] Login - Step 02: Enter to Email address textbox with value is AutomationFC_4422@gmail.com
+[INFO ] [2023-05-04 15:10:37,334] Login - Step 03: Enter to Password textbox with value is 123456789
+[INFO ] [2023-05-04 15:22:43,489] Register - Step 01: Navigate to 'Register' page
+[INFO ] [2023-05-04 15:22:43,997] Register - Step 02: Enter to First name textbox with value is Automation
+[INFO ] [2023-05-04 15:22:44,122] Register - Step 03: Enter to Last name textbox with value is Test
+[INFO ] [2023-05-04 15:22:44,244] Register - Step 04: Enter to Email address textbox with value is AutomationFC_1467@gmail.com
+[INFO ] [2023-05-04 15:22:44,601] Register - Step 07: Click to 'Register' buttom
+[INFO ] [2023-05-04 15:22:45,316] Register - Step 08: Verify Register success message.
+[INFO ] [2023-05-04 15:22:45,365]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-05-04 15:22:45,370] Login - Step 01: Navigate to Login page
+[INFO ] [2023-05-04 15:22:45,782] Login - Step 02: Enter to Email address textbox with value is AutomationFC_1467@gmail.com
+[INFO ] [2023-05-04 15:22:45,904] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-04 15:55:16,712] Register - Step 01: Navigate to 'Register' page
+[2023-05-04 15:55:17,214] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-04 15:55:17,337] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-04 15:55:17,457] Register - Step 04: Enter to Email address textbox with value is AutomationFC_8147@gmail.com
+[2023-05-04 15:55:17,807] Register - Step 07: Click to 'Register' buttom
+[2023-05-04 15:55:18,970] Register - Step 08: Verify Register success message.
+[2023-05-04 15:55:19,020]  -------------------------- FAILED -------------------------- 
+[2023-05-04 15:55:19,026] Login - Step 01: Navigate to Login page
+[2023-05-04 15:55:19,420] Login - Step 02: Enter to Email address textbox with value is AutomationFC_8147@gmail.com
+[2023-05-04 15:55:19,541] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-04 16:05:29,446] Register - Step 01: Navigate to 'Register' page
+[2023-05-04 16:05:30,539] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-04 16:05:30,670] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-04 16:05:30,789] Register - Step 04: Enter to Email address textbox with value is AutomationFC_8022@gmail.com
+[2023-05-04 16:05:31,152] Register - Step 07: Click to 'Register' buttom
+[2023-05-04 16:05:32,965] Register - Step 08: Verify Register success message.
+[2023-05-04 16:05:33,014]  -------------------------- FAILED -------------------------- 
+[2023-05-04 16:05:33,019] Login - Step 01: Navigate to Login page
+[2023-05-04 16:05:33,442] Login - Step 02: Enter to Email address textbox with value is AutomationFC_8022@gmail.com
+[2023-05-04 16:05:33,574] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-04 16:14:55,136] Register - Step 01: Navigate to 'Register' page
+[2023-05-04 16:14:56,220] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-04 16:14:56,352] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-04 16:14:56,473] Register - Step 04: Enter to Email address textbox with value is AutomationFC_7426@gmail.com
+[2023-05-04 16:14:56,908] Register - Step 07: Click to 'Register' buttom
+[2023-05-04 16:14:58,613] Register - Step 08: Verify Register success message.
+[2023-05-04 16:14:58,663]  -------------------------- FAILED -------------------------- 
+[2023-05-04 16:14:58,668] Login - Step 01: Navigate to Login page
+[2023-05-04 16:14:59,131] Login - Step 02: Enter to Email address textbox with value is AutomationFC_7426@gmail.com
+[2023-05-04 16:14:59,250] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-04 16:45:08,826] Register - Step 01: Navigate to 'Register' page
+[2023-05-04 16:45:09,326] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-04 16:45:09,454] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-04 16:45:09,569] Register - Step 04: Enter to Email address textbox with value is AutomationFC_9948@gmail.com
+[2023-05-04 16:45:09,935] Register - Step 07: Click to 'Register' buttom
+[2023-05-04 16:45:11,118] Register - Step 08: Verify Register success message.
+[2023-05-04 16:45:11,169]  -------------------------- FAILED -------------------------- 
+[2023-05-04 16:45:11,174] Login - Step 01: Navigate to Login page
+[2023-05-04 16:45:11,646] Login - Step 02: Enter to Email address textbox with value is AutomationFC_9948@gmail.com
+[2023-05-04 16:45:11,780] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-04 16:54:31,102] Register - Step 01: Navigate to 'Register' page
+[2023-05-04 16:54:31,753] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-04 16:54:31,897] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-04 16:54:32,031] Register - Step 04: Enter to Email address textbox with value is AutomationFC_2504@gmail.com
+[2023-05-04 16:54:32,436] Register - Step 07: Click to 'Register' buttom
+[2023-05-04 16:54:33,748] Register - Step 08: Verify Register success message.
+[2023-05-04 16:54:33,802]  -------------------------- FAILED -------------------------- 
+[2023-05-04 16:54:33,806] Login - Step 01: Navigate to Login page
+[2023-05-04 16:54:34,203] Login - Step 02: Enter to Email address textbox with value is AutomationFC_2504@gmail.com
+[2023-05-04 16:54:34,332] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-05 23:56:06,016] Register - Step 01: Navigate to 'Register' page
+[2023-05-05 23:56:06,537] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-05 23:56:06,675] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-05 23:56:06,802] Register - Step 04: Enter to Email address textbox with value is AutomationFC_3009@gmail.com
+[2023-05-05 23:56:07,173] Register - Step 07: Click to 'Register' buttom
+[2023-05-05 23:56:08,432] Register - Step 08: Verify Register success message.
+[2023-05-05 23:56:08,486]  -------------------------- FAILED -------------------------- 
+[2023-05-05 23:56:08,626] Login - Step 01: Navigate to Login page
+[2023-05-05 23:56:09,025] Login - Step 02: Enter to Email address textbox with value is AutomationFC_3009@gmail.com
+[2023-05-05 23:56:09,154] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-06 00:22:24,121] Register - Step 01: Navigate to 'Register' page
+[2023-05-06 00:22:24,643] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-06 00:22:24,784] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-06 00:22:24,912] Register - Step 04: Enter to Email address textbox with value is AutomationFC_4376@gmail.com
+[2023-05-06 00:22:25,312] Register - Step 07: Click to 'Register' buttom
+[2023-05-06 00:22:26,516] Register - Step 08: Verify Register success message.
+[2023-05-06 00:22:26,576]  -------------------------- FAILED -------------------------- 
+[2023-05-06 00:22:26,734] Login - Step 01: Navigate to Login page
+[2023-05-06 00:22:27,216] Login - Step 02: Enter to Email address textbox with value is AutomationFC_4376@gmail.com
+[2023-05-06 00:22:27,348] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-06 00:26:51,496] Register - Step 01: Navigate to 'Register' page
+[2023-05-06 00:26:52,019] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-06 00:26:52,171] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-06 00:26:52,296] Register - Step 04: Enter to Email address textbox with value is AutomationFC_3861@gmail.com
+[2023-05-06 00:26:52,674] Register - Step 07: Click to 'Register' buttom
+[2023-05-06 00:26:53,939] Register - Step 08: Verify Register success message.
+[2023-05-06 00:26:53,998]  -------------------------- FAILED -------------------------- 
+[2023-05-06 00:26:54,149] Login - Step 01: Navigate to Login page
+[2023-05-06 00:29:41,019] Register - Step 01: Navigate to 'Register' page
+[2023-05-06 00:29:41,531] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-06 00:29:41,673] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-06 00:29:41,799] Register - Step 04: Enter to Email address textbox with value is AutomationFC_4340@gmail.com
+[2023-05-06 00:29:42,176] Register - Step 07: Click to 'Register' buttom
+[2023-05-06 00:29:43,378] Register - Step 08: Verify Register success message.
+[2023-05-06 00:29:43,428]  -------------------------- FAILED -------------------------- 
+[2023-05-06 00:30:24,959] Register - Step 01: Navigate to 'Register' page
+[2023-05-06 00:30:25,839] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-06 00:30:25,976] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-06 00:30:26,098] Register - Step 04: Enter to Email address textbox with value is AutomationFC_3560@gmail.com
+[2023-05-06 00:30:26,492] Register - Step 07: Click to 'Register' buttom
+[2023-05-06 00:30:27,731] Register - Step 08: Verify Register success message.
+[2023-05-06 00:30:27,781]  -------------------------- FAILED -------------------------- 
+[2023-05-06 00:30:27,918] Login - Step 01: Navigate to Login page
+[2023-05-06 00:30:28,313] Login - Step 02: Enter to Email address textbox with value is AutomationFC_3560@gmail.com
+[2023-05-06 00:30:28,446] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-06 00:33:33,317] Register - Step 01: Navigate to 'Register' page
+[2023-05-06 00:33:33,801] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-06 00:33:33,939] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-06 00:33:34,068] Register - Step 04: Enter to Email address textbox with value is AutomationFC_5646@gmail.com
+[2023-05-06 00:33:34,445] Register - Step 07: Click to 'Register' buttom
+[2023-05-06 00:33:35,722] Register - Step 08: Verify Register success message.
+[2023-05-06 00:33:35,765]  -------------------------- FAILED -------------------------- 
+[2023-05-06 00:33:35,997] Login - Step 01: Navigate to Login page
+[2023-05-06 00:33:36,413] Login - Step 02: Enter to Email address textbox with value is AutomationFC_5646@gmail.com
+[2023-05-06 00:33:36,545] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-06 00:37:06,975] Register - Step 01: Navigate to 'Register' page
+[2023-05-06 00:37:07,663] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-06 00:37:07,809] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-06 00:37:07,942] Register - Step 04: Enter to Email address textbox with value is AutomationFC_399@gmail.com
+[2023-05-06 00:37:08,335] Register - Step 07: Click to 'Register' buttom
+[2023-05-06 00:37:09,579] Register - Step 08: Verify Register success message.
+[2023-05-06 00:37:09,631]  -------------------------- FAILED -------------------------- 
+[2023-05-06 00:37:09,778] Login - Step 01: Navigate to Login page
+[2023-05-06 00:37:10,168] Login - Step 02: Enter to Email address textbox with value is AutomationFC_399@gmail.com
+[2023-05-06 00:37:10,297] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-06 00:37:11,152] Login - Step 05: Verify Login page link
+[2023-05-06 00:39:14,980] Register - Step 01: Navigate to 'Register' page
+[2023-05-06 00:39:15,542] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-06 00:39:15,674] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-06 00:39:15,797] Register - Step 04: Enter to Email address textbox with value is AutomationFC_1350@gmail.com
+[2023-05-06 00:39:16,184] Register - Step 07: Click to 'Register' buttom
+[2023-05-06 00:39:17,381] Register - Step 08: Verify Register success message.
+[2023-05-06 00:39:17,569] Login - Step 01: Navigate to Login page
+[2023-05-06 00:39:17,958] Login - Step 02: Enter to Email address textbox with value is AutomationFC_1350@gmail.com
+[2023-05-06 00:39:18,091] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-06 00:39:18,915] Login - Step 05: Verify Login page link
+[2023-05-06 17:47:01,351] Register - Step 01: Navigate to 'Register' page
+[2023-05-06 17:47:02,634] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-06 17:47:02,759] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-06 17:47:02,877] Register - Step 04: Enter to Email address textbox with value is AutomationFC_7295@gmail.com
+[2023-05-06 17:47:03,240] Register - Step 07: Click to 'Register' buttom
+[2023-05-06 17:47:03,950] Register - Step 08: Verify Register success message.
+[2023-05-06 17:47:04,147] Login - Step 01: Navigate to Login page
+[2023-05-06 17:47:04,533] Login - Step 02: Enter to Email address textbox with value is AutomationFC_7295@gmail.com
+[2023-05-06 17:47:04,652] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-06 17:47:05,425] Login - Step 05: Verify Login page link
+[2023-05-06 22:32:37,950] Register - Step 01: Navigate to 'Register' page
+[2023-05-06 22:32:38,440] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-06 22:32:38,573] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-06 22:32:38,693] Register - Step 04: Enter to Email address textbox with value is AutomationFC_9295@gmail.com
+[2023-05-06 22:32:39,052] Register - Step 07: Click to 'Register' buttom
+[2023-05-06 22:32:40,228] Register - Step 08: Verify Register success message.
+[2023-05-06 22:32:40,514] Login - Step 01: Navigate to Login page
+[2023-05-06 22:32:40,963] Login - Step 02: Enter to Email address textbox with value is AutomationFC_9295@gmail.com
+[2023-05-06 22:32:41,112] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-06 22:32:41,886] Login - Step 05: Verify Login page link
+[2023-05-16 00:11:38,385] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 00:11:38,940] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 00:11:39,104] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 00:11:39,235] Register - Step 04: Enter to Email address textbox with value is AutomationFC_3127@gmail.com
+[2023-05-16 00:11:39,636] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 00:11:40,340] Register - Step 08: Verify Register success message.
+[2023-05-16 00:13:15,113] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 00:13:15,625] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 00:13:15,780] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 00:13:15,904] Register - Step 04: Enter to Email address textbox with value is AutomationFC_5286@gmail.com
+[2023-05-16 00:13:16,279] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 00:13:16,962] Register - Step 08: Verify Register success message.
+[2023-05-16 00:16:43,157] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 00:16:43,681] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 00:16:43,834] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 00:16:43,958] Register - Step 04: Enter to Email address textbox with value is AutomationFC_6283@gmail.com
+[2023-05-16 00:16:44,323] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 00:16:45,519] Register - Step 08: Verify Register success message.
+[2023-05-16 00:16:45,572] Login - Step 01: Navigate to Login page
+[2023-05-16 00:16:45,991] Login - Step 02: Enter to Email address textbox with value is AutomationFC_6283@gmail.com
+[2023-05-16 00:16:46,116] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 00:19:35,418] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 00:19:35,921] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 00:19:36,076] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 00:19:36,199] Register - Step 04: Enter to Email address textbox with value is AutomationFC_5385@gmail.com
+[2023-05-16 00:19:36,548] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 00:19:37,728] Register - Step 08: Verify Register success message.
+[2023-05-16 00:19:37,781] Login - Step 01: Navigate to Login page
+[2023-05-16 00:19:38,165] Login - Step 02: Enter to Email address textbox with value is AutomationFC_5385@gmail.com
+[2023-05-16 00:19:38,283] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 00:23:19,063] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 00:23:19,604] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 00:23:19,750] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 00:23:19,878] Register - Step 04: Enter to Email address textbox with value is AutomationFC_7340@gmail.com
+[2023-05-16 00:23:20,241] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 00:23:21,494] Register - Step 08: Verify Register success message.
+[2023-05-16 00:23:21,548] Login - Step 01: Navigate to Login page
+[2023-05-16 00:23:21,938] Login - Step 02: Enter to Email address textbox with value is AutomationFC_7340@gmail.com
+[2023-05-16 00:23:22,058] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 00:27:24,073] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 00:27:24,614] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 00:27:24,757] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 00:27:24,881] Register - Step 04: Enter to Email address textbox with value is AutomationFC_5070@gmail.com
+[2023-05-16 00:27:25,243] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 00:27:26,425] Register - Step 08: Verify Register success message.
+[2023-05-16 00:27:26,477] Login - Step 01: Navigate to Login page
+[2023-05-16 00:27:26,865] Login - Step 02: Enter to Email address textbox with value is AutomationFC_5070@gmail.com
+[2023-05-16 00:27:26,987] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 20:41:29,183] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 20:41:30,148] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 20:41:30,333] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 20:41:30,496] Register - Step 04: Enter to Email address textbox with value is AutomationFC_7154@gmail.com
+[2023-05-16 20:41:30,918] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 20:41:34,138] Register - Step 08: Verify Register success message.
+[2023-05-16 20:41:34,195] Login - Step 01: Navigate to Login page
+[2023-05-16 20:41:35,557] Login - Step 02: Enter to Email address textbox with value is AutomationFC_7154@gmail.com
+[2023-05-16 20:41:35,674] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 20:41:56,034] OS name = Windows 10
+[2023-05-16 20:41:56,034] Driver instance name = chromedriver: chrome on windows (618c6c5f1d280447f0a81f34d5a358f5)
+[2023-05-16 21:03:47,256] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 21:03:48,735] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 21:03:48,880] Login - Step 01: Navigate to Login page
+[2023-05-16 21:03:49,805] Login - Step 02: Enter to Email address textbox with value is AutomationFC_2888@gmail.com
+[2023-05-16 21:03:49,942] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 21:03:50,676] Login - Step 05: Verify Login page link
+[2023-05-16 21:03:50,826] OS name = Windows 10
+[2023-05-16 21:03:50,826] Driver instance name = chromedriver: chrome on windows (9ba8cdabd2e9ef025aea5732fbbbcdbe)
+[2023-05-16 21:05:12,076] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 21:05:23,080] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 21:06:30,301] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 21:06:40,176] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 21:07:40,384] Login - Step 01: Navigate to Login page
+[2023-05-16 21:07:42,795] Login - Step 02: Enter to Email address textbox with value is AutomationFC_6167@gmail.com
+[2023-05-16 21:07:42,941] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 21:07:43,596] Login - Step 05: Verify Login page link
+[2023-05-16 21:07:43,734] OS name = Windows 10
+[2023-05-16 21:07:43,734] Driver instance name = chromedriver: chrome on windows (6e57aaa90577cf3958580ee0f09a2398)
+[2023-05-16 21:10:36,109] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 21:10:36,678] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 21:11:06,818] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 21:12:07,046] Login - Step 01: Navigate to Login page
+[2023-05-16 21:12:08,785] Login - Step 02: Enter to Email address textbox with value is AutomationFC_7506@gmail.com
+[2023-05-16 21:12:08,924] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 21:12:10,482] Login - Step 05: Verify Login page link
+[2023-05-16 21:12:10,713] OS name = Windows 10
+[2023-05-16 21:12:10,714] Driver instance name = chromedriver: chrome on windows (441772a83323289ab431e5a9b1bd8fcb)
+[2023-05-16 21:16:10,849] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 21:16:17,286] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 21:16:47,548] Login - Step 01: Navigate to Login page
+[2023-05-16 21:16:50,336] Login - Step 02: Enter to Email address textbox with value is AutomationFC_8429@gmail.com
+[2023-05-16 21:16:50,544] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 21:16:53,084] Login - Step 05: Verify Login page link
+[2023-05-16 21:16:53,390] OS name = Windows 10
+[2023-05-16 21:16:53,390] Driver instance name = chromedriver: chrome on windows (6e2d3403550339494174eb5b84096e59)
+[2023-05-16 21:19:54,198] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 21:19:59,472] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 21:19:59,617] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 21:19:59,742] Register - Step 04: Enter to Email address textbox with value is AutomationFC_5601@gmail.com
+[2023-05-16 21:19:59,883] Register - Step 05: Enter to Password textbox with value is 123456789
+[2023-05-16 21:20:00,111] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 21:20:03,383] Register - Step 08: Verify Register success message.
+[2023-05-16 21:20:03,440] Login - Step 01: Navigate to Login page
+[2023-05-16 21:20:06,855] Login - Step 02: Enter to Email address textbox with value is AutomationFC_5601@gmail.com
+[2023-05-16 21:20:06,985] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 21:20:09,563] Login - Step 05: Verify Login page link
+[2023-05-16 21:20:09,941] OS name = Windows 10
+[2023-05-16 21:20:09,941] Driver instance name = chromedriver: chrome on windows (cedb3df07cc7f6ff1f416f210a75cf78)
+[2023-05-16 21:52:43,000] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 21:52:45,041] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 21:52:45,184] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 21:52:45,314] Register - Step 04: Enter to Email address textbox with value is AutomationFC_5152@gmail.com
+[2023-05-16 21:52:45,453] Register - Step 05: Enter to Password textbox with value is 123456789
+[2023-05-16 21:52:45,697] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 21:53:16,918] Login - Step 01: Navigate to Login page
+[2023-05-16 21:53:17,931] Login - Step 02: Enter to Email address textbox with value is AutomationFC_5152@gmail.com
+[2023-05-16 21:53:18,114] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 21:53:18,267] Login - Step 04: Click to Login button
+[2023-05-16 21:53:19,693] Login - Step 05: Verify Login page link
+[2023-05-16 21:53:20,064] OS name = Windows 10
+[2023-05-16 21:53:20,064] Driver instance name = chromedriver: chrome on windows (9c361a8d9490f755fbbccabcbee86fdd)
+[2023-05-16 21:57:00,717] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 21:57:01,378] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 21:57:01,536] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 21:57:01,664] Register - Step 04: Enter to Email address textbox with value is AutomationFC_2200@gmail.com
+[2023-05-16 21:57:01,805] Register - Step 05: Enter to Password textbox with value is 123456789
+[2023-05-16 21:57:02,041] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 21:57:02,918] Register - Step 08: Verify Register success message.
+[2023-05-16 21:57:02,975] Login - Step 01: Navigate to Login page
+[2023-05-16 21:57:03,455] Login - Step 02: Enter to Email address textbox with value is AutomationFC_2200@gmail.com
+[2023-05-16 21:57:03,574] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 21:57:03,686] Login - Step 04: Click to Login button
+[2023-05-16 21:57:07,889] Login - Step 05: Verify Login page link
+[2023-05-16 21:57:08,299] OS name = Windows 10
+[2023-05-16 21:57:08,299] Driver instance name = chromedriver: chrome on windows (54cb9488addfff821094c24bad99bbde)
+[2023-05-16 23:39:03,999] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 23:39:23,152] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 23:39:23,341] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 23:39:23,494] Register - Step 04: Select date of Birth with value is 11/5/1999
+[2023-05-16 23:39:23,681] Login - Step 01: Navigate to Login page
+[2023-05-16 23:39:24,893] Login - Step 02: Enter to Email address textbox with value is AutomationFC_3583@gmail.com
+[2023-05-16 23:39:25,050] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 23:39:25,179] Login - Step 04: Click to Login button
+[2023-05-16 23:39:26,348] Login - Step 05: Verify Login page link
+[2023-05-16 23:39:26,507] OS name = Windows 10
+[2023-05-16 23:39:26,507] Driver instance name = chromedriver: chrome on windows (abb70f14f516862963081a845ee61395)
+[2023-05-16 23:41:29,484] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 23:41:30,053] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 23:41:30,207] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 23:41:30,343] Register - Step 04: Select date of Birth with value is 11/5/1999
+[2023-05-16 23:41:30,503] Login - Step 01: Navigate to Login page
+[2023-05-16 23:41:30,977] Login - Step 02: Enter to Email address textbox with value is AutomationFC_9758@gmail.com
+[2023-05-16 23:41:31,104] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 23:41:31,222] Login - Step 04: Click to Login button
+[2023-05-16 23:41:31,697] Login - Step 05: Verify Login page link
+[2023-05-16 23:41:31,853] OS name = Windows 10
+[2023-05-16 23:41:31,853] Driver instance name = chromedriver: chrome on windows (72583f725fdb5d33be9b6c468142854e)
+[2023-05-16 23:48:13,124] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 23:48:16,448] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 23:48:16,604] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 23:48:16,730] Register - Step 04: Select date of Birth with value is 11/5/1999
+[2023-05-16 23:48:16,905] Login - Step 01: Navigate to Login page
+[2023-05-16 23:48:23,095] Login - Step 02: Enter to Email address textbox with value is AutomationFC_8871@gmail.com
+[2023-05-16 23:48:23,221] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 23:48:23,338] Login - Step 04: Click to Login button
+[2023-05-16 23:48:24,243] Login - Step 05: Verify Login page link
+[2023-05-16 23:48:24,412] OS name = Windows 10
+[2023-05-16 23:48:24,412] Driver instance name = chromedriver: chrome on windows (e8b571a482ed2525f0c456418439eebd)
+[2023-05-16 23:51:16,203] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 23:51:17,664] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 23:51:17,811] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 23:51:17,930] Register - Step 04: Select date of Birth with value is 11/5/1999
+[2023-05-16 23:51:48,377] Login - Step 01: Navigate to Login page
+[2023-05-16 23:51:50,836] Login - Step 02: Enter to Email address textbox with value is AutomationFC_5141@gmail.com
+[2023-05-16 23:51:50,973] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 23:51:51,084] Login - Step 04: Click to Login button
+[2023-05-16 23:51:51,978] Login - Step 05: Verify Login page link
+[2023-05-16 23:51:52,167] OS name = Windows 10
+[2023-05-16 23:51:52,167] Driver instance name = chromedriver: chrome on windows (e5e062d834058f2f46ae64b9936d0e92)
+[2023-05-16 23:53:05,914] Register - Step 01: Navigate to 'Register' page
+[2023-05-16 23:53:06,962] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-16 23:53:07,116] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-16 23:53:07,243] Register - Step 04: Select date of Birth with value is 11/May/1999
+[2023-05-16 23:53:07,552] Register - Step 04: Enter to Email address textbox with value is AutomationFC_6424@gmail.com
+[2023-05-16 23:53:07,682] Register - Step 05: Enter to Password textbox with value is 123456789
+[2023-05-16 23:53:07,913] Register - Step 07: Click to 'Register' buttom
+[2023-05-16 23:53:09,481] Register - Step 08: Verify Register success message.
+[2023-05-16 23:53:09,539] Login - Step 01: Navigate to Login page
+[2023-05-16 23:53:11,606] Login - Step 02: Enter to Email address textbox with value is AutomationFC_6424@gmail.com
+[2023-05-16 23:53:11,738] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-16 23:53:11,850] Login - Step 04: Click to Login button
+[2023-05-16 23:53:13,072] Login - Step 05: Verify Login page link
+[2023-05-16 23:53:13,441] OS name = Windows 10
+[2023-05-16 23:53:13,441] Driver instance name = chromedriver: chrome on windows (29b03e6989c110aa67e2a456d49b8080)
+[2023-05-17 00:15:04,851] Register - Step 01: Navigate to 'Register' page
+[2023-05-17 00:15:06,841] Register - Step 02: Click to radio button Gender
+[2023-05-17 00:15:06,953] Register - Step 02: Enter to First name textbox with value is Automation
+[2023-05-17 00:15:07,086] Register - Step 03: Enter to Last name textbox with value is Test
+[2023-05-17 00:15:07,204] Register - Step 04: Select date of Birth with value is 11/May/1999
+[2023-05-17 00:15:07,650] Register - Step 05: Enter to Email address textbox with value is AutomationFC_7288@gmail.com
+[2023-05-17 00:15:07,789] Register - Step 06: Enter to Password textbox with value is 123456789
+[2023-05-17 00:15:08,045] Register - Step 08: Click to 'Register' buttom
+[2023-05-17 00:15:09,624] Register - Step 09: Verify Register success message.
+[2023-05-17 00:15:09,683] Login - Step 01: Navigate to Login page
+[2023-05-17 00:15:11,639] Login - Step 02: Enter to Email address textbox with value is AutomationFC_7288@gmail.com
+[2023-05-17 00:15:11,768] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-17 00:15:11,881] Login - Step 04: Click to Login button
+[2023-05-17 00:15:12,970] Login - Step 05: Verify Login page link
+[2023-05-17 00:15:13,365] OS name = Windows 10
+[2023-05-17 00:15:13,365] Driver instance name = chromedriver: chrome on windows (b15a7c443c80e5a66bd0560dc4cadf7d)
+[2023-05-17 00:24:49,800] Register - Step 01: Navigate to 'Register' page
+[2023-05-17 00:24:53,303] Register - Step 02: Choose 'Gender' - Radio button
+[2023-05-17 00:24:53,419] Register - Step 03: Enter to First name textbox with value is Automation
+[2023-05-17 00:24:53,555] Register - Step 04: Enter to Last name textbox with value is Test
+[2023-05-17 00:24:53,669] Register - Step 05: Select date of Birth with value is 11/May/1999
+[2023-05-17 00:24:53,995] Register - Step 06: Enter to Email address textbox with value is AutomationFC_3827@gmail.com
+[2023-05-17 00:24:54,122] Register - Step 07: Click to checkbox 'Newsletter'
+[2023-05-17 00:24:54,171] Register - Step 08: Enter to Password textbox with value is 123456789
+[2023-05-17 00:24:54,473] Register - Step 09: Click to 'Register' buttom
+[2023-05-17 00:24:58,304] Register - Step 10: Verify Register success message.
+[2023-05-17 00:24:58,362] Login - Step 01: Navigate to Login page
+[2023-05-17 00:24:59,843] Login - Step 02: Enter to Email address textbox with value is AutomationFC_3827@gmail.com
+[2023-05-17 00:24:59,979] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-17 00:25:00,101] Login - Step 04: Click to Login button
+[2023-05-17 00:25:02,228] Login - Step 05: Verify Login page link
+[2023-05-17 00:25:02,690] OS name = Windows 10
+[2023-05-17 00:25:02,691] Driver instance name = chromedriver: chrome on windows (f025c37b43d806543ec70af56f08a086)
+[2023-05-17 00:42:47,109] Register - Step 01: Navigate to 'Register' page
+[2023-05-17 00:42:48,876] Register - Step 02: Choose 'Gender' - Radio button
+[2023-05-17 00:42:48,996] Register - Step 03: Enter to First name textbox with value is Automation
+[2023-05-17 00:42:49,133] Register - Step 04: Enter to Last name textbox with value is Test
+[2023-05-17 00:42:49,250] Register - Step 05: Select date of Birth with value is 11/May/1999
+[2023-05-17 00:42:49,561] Register - Step 06: Enter to Email address textbox with value is AutomationFC_246@gmail.com
+[2023-05-17 00:42:49,683] Register - Step 07: Click to checkbox 'Newsletter'
+[2023-05-17 00:42:49,736] Register - Step 08: Enter to Password textbox with value is 123456789
+[2023-05-17 00:42:49,965] Register - Step 09: Click to 'Register' buttom
+[2023-05-17 00:42:51,513] Register - Step 10: Verify Register success message.
+[2023-05-17 00:42:51,570] Login - Step 01: Navigate to Login page
+[2023-05-17 00:42:52,138] Login - Step 02: Enter to Email address textbox with value is AutomationFC_246@gmail.com
+[2023-05-17 00:42:52,264] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-17 00:42:52,384] Login - Step 04: Click to Login button
+[2023-05-17 00:42:53,501] Login - Step 05: Verify Login page link
+[2023-05-17 00:42:53,875] OS name = Windows 10
+[2023-05-17 00:42:53,875] Driver instance name = chromedriver: chrome on windows (fc3e94adbb02fa7a51108b4d762f03ea)
+[2023-05-17 00:55:02,289] Register - Step 01: Navigate to 'Register' page
+[2023-05-17 00:55:03,540] Register - Step 02: Choose 'Gender' - Radio button
+[2023-05-17 00:55:03,666] Register - Step 03: Enter to First name textbox with value is Automation
+[2023-05-17 00:55:03,799] Register - Step 04: Enter to Last name textbox with value is Test
+[2023-05-17 00:55:03,918] Register - Step 05: Select date of Birth with value is 11/May/1999
+[2023-05-17 00:55:04,236] Register - Step 06: Enter to Email address textbox with value is AutomationFC_8346@gmail.com
+[2023-05-17 00:55:04,363] Register - Step 07: Click to checkbox 'Newsletter'
+[2023-05-17 00:55:04,417] Register - Step 08: Enter to Password textbox with value is 123456789
+[2023-05-17 00:55:04,651] Register - Step 09: Click to 'Register' buttom
+[2023-05-17 00:55:07,206] Register - Step 10: Verify Register success message.
+[2023-05-17 00:55:07,264] Login - Step 01: Navigate to Login page
+[2023-05-17 00:55:10,095] Login - Step 02: Enter to Email address textbox with value is AutomationFC_8346@gmail.com
+[2023-05-17 00:55:10,281] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-17 00:55:10,380] Login - Step 04: Click to Login button
+[2023-05-17 00:55:23,941] Login - Step 05: Verify Login page link
+[2023-05-17 00:55:24,988] Login - Step 01: Verify MyAccount page link
+[2023-05-17 00:55:25,188] OS name = Windows 10
+[2023-05-17 00:55:25,188] Driver instance name = chromedriver: chrome on windows (0a5ebf6668f1d3ce6a536cc0f2a31282)
+[2023-05-17 00:57:23,870] Register - Step 01: Navigate to 'Register' page
+[2023-05-17 00:57:24,823] Register - Step 02: Choose 'Gender' - Radio button
+[2023-05-17 00:57:24,954] Register - Step 03: Enter to First name textbox with value is Automation
+[2023-05-17 00:57:25,086] Register - Step 04: Enter to Last name textbox with value is Test
+[2023-05-17 00:57:25,205] Register - Step 05: Select date of Birth with value is 11/May/1999
+[2023-05-17 00:57:25,505] Register - Step 06: Enter to Email address textbox with value is AutomationFC_9016@gmail.com
+[2023-05-17 00:57:25,645] Register - Step 07: Click to checkbox 'Newsletter'
+[2023-05-17 00:57:25,695] Register - Step 08: Enter to Password textbox with value is 123456789
+[2023-05-17 00:57:25,923] Register - Step 09: Click to 'Register' buttom
+[2023-05-17 00:57:28,216] Register - Step 10: Verify Register success message.
+[2023-05-17 00:57:28,277] Login - Step 01: Navigate to Login page
+[2023-05-17 00:57:29,040] Login - Step 02: Enter to Email address textbox with value is AutomationFC_9016@gmail.com
+[2023-05-17 00:57:29,178] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-17 00:57:29,286] Login - Step 04: Click to Login button
+[2023-05-17 00:57:30,216] Login - Step 05: Verify Login page link
+[2023-05-17 00:57:31,292] Login - Step 01: Verify MyAccount page link
+[2023-05-17 00:57:31,343] Login - Step 02: Verify Firstname value is correct.
+[2023-05-17 00:57:31,410] Login - Step 03: Verify Lastname value is correct.
+[2023-05-17 00:57:31,500] Login - Step 04: Verify Email value is correct.
+[2023-05-17 00:57:31,560] OS name = Windows 10
+[2023-05-17 00:57:31,562] Driver instance name = chromedriver: chrome on windows (f186ae353a771025f22945b3893157ba)
+[2023-05-30 15:40:31,547] Register - Step 01: Navigate to 'Register' page
+[2023-05-30 15:40:32,185] Register - Step 02: Choose 'Gender' - Radio button
+[2023-05-30 15:40:32,295] Register - Step 03: Enter to First name textbox with value is Automation
+[2023-05-30 15:40:32,422] Register - Step 04: Enter to Last name textbox with value is Test
+[2023-05-30 15:40:32,543] Register - Step 05: Select date of Birth with value is 11/May/1999
+[2023-05-30 15:40:32,862] Register - Step 06: Enter to Email address textbox with value is AutomationFC_835@gmail.com
+[2023-05-30 15:40:32,991] Register - Step 07: Click to checkbox 'Newsletter'
+[2023-05-30 15:40:33,048] Register - Step 08: Enter to Password textbox with value is 123456789
+[2023-05-30 15:40:33,284] Register - Step 09: Click to 'Register' buttom
+[2023-05-30 15:40:34,394] Register - Step 10: Verify Register success message.
+[2023-05-30 15:40:34,449] Login - Step 01: Navigate to Login page
+[2023-05-30 15:40:34,816] Login - Step 02: Enter to Email address textbox with value is AutomationFC_835@gmail.com
+[2023-05-30 15:40:34,939] Login - Step 03: Enter to Password textbox with value is 123456789
+[2023-05-30 15:40:35,059] Login - Step 04: Click to Login button
+[2023-05-30 15:40:35,621] Login - Step 05: Verify Login page link
+[2023-05-30 15:40:36,452] Login - Step 01: Verify MyAccount page link
+[2023-05-30 15:40:36,503] Login - Step 02: Verify Firstname value is correct.
+[2023-05-30 15:40:36,543] Login - Step 03: Verify Lastname value is correct.
+[2023-05-30 15:40:36,584] Login - Step 04: Verify Email value is correct.
+[2023-05-30 15:40:36,630] OS name = Windows 10
+[2023-05-30 15:40:36,630] Driver instance name = chromedriver: chrome on windows (d18610f1ff65abf6e0a1d2a7f7320c7d)
+[2023-05-30 16:00:58,094] OS name = Windows 10
+[2023-05-30 16:00:58,189] Cannot invoke "Object.toString()" because "this.driver" is null
+[2023-05-30 16:06:29,414] OS name = Windows 10
+[2023-05-30 16:06:29,414] Cannot invoke "Object.toString()" because "this.driver" is null
+[2023-05-30 16:08:56,804] OS name = Windows 10
+[2023-05-30 16:08:56,805] Cannot invoke "Object.toString()" because "this.driver" is null
+[2023-05-30 16:10:38,973] OS name = Windows 10
+[2023-05-30 16:10:38,973] Cannot invoke "Object.toString()" because "this.driver" is null
+[2023-05-30 17:19:09,394] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-30 17:19:45,150] OS name = Windows 10
+[2023-05-30 17:19:45,151] Driver instance name = chromedriver: chrome on windows (8e9465ec5e28e28639089745f1ecfe80)
+[2023-05-30 17:20:08,753] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-30 17:20:39,425] OS name = Windows 10
+[2023-05-30 17:20:39,525] Driver instance name = chromedriver: chrome on windows (6f52413974c9c22b4a13c9760f474bee)
+[2023-05-30 17:20:49,382] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-30 17:21:09,686] OS name = Windows 10
+[2023-05-30 17:21:09,686] Driver instance name = chromedriver: chrome on windows (15d98737acf52b37127923bb3f01d4bd)
+[2023-05-30 17:28:48,629] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-30 17:29:20,325] OS name = Windows 10
+[2023-05-30 17:29:20,626] Driver instance name = chromedriver: chrome on windows (0a63b015ed3b3989ea68de34527e542f)
+[2023-05-30 17:30:42,155] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-30 17:31:14,131] OS name = Windows 10
+[2023-05-30 17:31:14,131] Driver instance name = chromedriver: chrome on windows (b01dff01974009685d3dcc9dec6c30bb)
+[2023-05-30 17:32:24,534] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-30 17:32:56,051] OS name = Windows 10
+[2023-05-30 17:32:56,051] Driver instance name = chromedriver: chrome on windows (f82f3bde3b9a63585500225e383f01e4)
+[2023-05-30 17:33:18,962] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-30 17:33:50,547] OS name = Windows 10
+[2023-05-30 17:33:50,547] Driver instance name = chromedriver: chrome on windows (5ae35ae9804291a9f32441214cfd6ffc)
+[2023-05-30 22:36:23,474] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-30 22:36:26,014] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-30 22:36:42,091] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-30 22:36:47,313] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-30 22:36:47,521] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-05-30 22:36:47,642] Pre-Condition - Step 04: Click to Login button
+[2023-05-30 22:36:50,473] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-05-30 22:36:50,473] Create_Post - Step 02: Click to 'Add New' button
+[2023-05-30 22:36:50,474] Create_Post - Step 03: Enter to post title
+[2023-05-30 22:36:50,474] Create_Post - Step 04: Enter to body
+[2023-05-30 22:36:50,474] Create_Post - Step 05: Click to 'Publish' button
+[2023-05-30 22:36:50,474] Create_Post - Step 06: Verify 'Post published' message is displayed
+[2023-05-30 22:36:50,491] OS name = Windows 10
+[2023-05-30 22:36:50,491] Driver instance name = chromedriver: chrome on windows (15d8185603fa5ecd2f1e6f8123a85df6)
+[2023-05-30 22:36:56,435] OS name = Windows 10
+[2023-05-30 22:36:56,435] Driver instance name = chromedriver: chrome on windows (138058066d4816fc5fa7ce19c26c3ed4)
+[2023-05-30 22:36:56,437] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-M924D1H', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 138058066d4816fc5fa7ce19c26c3ed4
+[2023-05-31 00:47:21,067] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-31 00:47:26,241] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-31 00:47:26,404] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-05-31 00:47:26,516] Pre-Condition - Step 04: Click to Login button
+[2023-05-31 00:47:29,450] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-05-31 00:47:29,640] OS name = Windows 10
+[2023-05-31 00:47:29,640] Driver instance name = chromedriver: chrome on windows (7002bcad0a697eb94422309ba3d8a8e3)
+[2023-05-31 00:51:53,271] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-31 00:51:57,498] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-31 00:51:57,731] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-05-31 00:51:57,845] Pre-Condition - Step 04: Click to Login button
+[2023-05-31 00:52:00,596] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-05-31 00:52:02,041] Create_Post - Step 02: Click to 'Add New' button
+[2023-05-31 00:52:02,041] Create_Post - Step 03: Enter to post title
+[2023-05-31 00:52:02,213] OS name = Windows 10
+[2023-05-31 00:52:02,214] Driver instance name = chromedriver: chrome on windows (ffea7e2c0e743a0a6756f916eafacbbc)
+[2023-05-31 00:53:33,607] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-31 00:53:36,891] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-31 00:53:37,105] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-05-31 00:53:37,227] Pre-Condition - Step 04: Click to Login button
+[2023-05-31 00:53:39,996] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-05-31 00:53:41,438] Create_Post - Step 02: Click to 'Add New' button
+[2023-05-31 00:53:41,438] Create_Post - Step 03: Enter to post title
+[2023-05-31 00:53:41,438] Create_Post - Step 04: Enter to body
+[2023-05-31 00:53:41,438] Create_Post - Step 05: Click to 'Publish' button
+[2023-05-31 00:53:41,439] Create_Post - Step 06: Verify 'Post published' message is displayed
+[2023-05-31 00:53:41,452] OS name = Windows 10
+[2023-05-31 00:53:41,453] Driver instance name = chromedriver: chrome on windows (40d5103c06ad62b39746139dc49c713f)
+[2023-05-31 01:02:50,977] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-31 01:02:54,383] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-31 01:02:54,595] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-05-31 01:02:54,721] Pre-Condition - Step 04: Click to Login button
+[2023-05-31 01:02:57,494] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-05-31 01:02:58,916] Create_Post - Step 02: Click to 'Add New' button
+[2023-05-31 01:03:01,423] Create_Post - Step 03: Enter to post title
+[2023-05-31 01:03:01,423] Create_Post - Step 04: Enter to body
+[2023-05-31 01:03:01,423] Create_Post - Step 05: Click to 'Publish' button
+[2023-05-31 01:03:01,423] Create_Post - Step 06: Verify 'Post published' message is displayed
+[2023-05-31 01:03:01,444] OS name = Windows 10
+[2023-05-31 01:03:01,445] Driver instance name = chromedriver: chrome on windows (2c140ee9bd2871a5d55e1023d6aa1416)
+[2023-05-31 15:49:21,962] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-31 15:49:27,984] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-31 15:49:28,185] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-05-31 15:49:28,292] Pre-Condition - Step 04: Click to Login button
+[2023-05-31 15:49:31,404] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-05-31 15:49:32,898] Create_Post - Step 02: Click to 'Add New' button
+[2023-05-31 15:49:35,553] Create_Post - Step 03: Enter to post title
+[2023-05-31 15:49:36,647] Create_Post - Step 04: Enter to body
+[2023-05-31 15:49:37,220] OS name = Windows 10
+[2023-05-31 15:49:37,220] Driver instance name = chromedriver: chrome on windows (fa52731e4c0f0d11e0da8c31513a7cb6)
+[2023-05-31 15:57:42,427] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-31 15:57:47,313] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-31 15:57:47,603] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-05-31 15:57:47,730] Pre-Condition - Step 04: Click to Login button
+[2023-05-31 15:57:51,211] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-05-31 15:57:53,117] Create_Post - Step 02: Click to 'Add New' button
+[2023-05-31 15:57:56,076] Create_Post - Step 03: Enter to post title
+[2023-05-31 15:57:57,416] Create_Post - Step 04: Enter to body
+[2023-05-31 15:57:57,949] OS name = Windows 10
+[2023-05-31 15:57:57,949] Driver instance name = chromedriver: chrome on windows (8384cfebf67279a61dd3bdb78025bd4f)
+[2023-05-31 16:26:32,300] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-31 16:26:36,992] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-31 16:26:37,257] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-05-31 16:26:37,396] Pre-Condition - Step 04: Click to Login button
+[2023-05-31 16:26:40,350] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-05-31 16:26:41,891] Create_Post - Step 02: Click to 'Add New' button
+[2023-05-31 16:26:44,875] Create_Post - Step 03: Enter to post title
+[2023-05-31 16:26:47,283] Create_Post - Step 04: Enter to body
+[2023-05-31 16:26:48,245] OS name = Windows 10
+[2023-05-31 16:26:48,246] Driver instance name = chromedriver: chrome on windows (a730f91cdff76c44718843c94cbbde71)
+[2023-05-31 16:28:41,565] Pre-Condition - Step 01: Open browser and admin url
+[2023-05-31 16:28:45,044] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-05-31 16:28:45,301] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-05-31 16:28:45,419] Pre-Condition - Step 04: Click to Login button
+[2023-05-31 16:28:48,694] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-05-31 16:28:50,288] Create_Post - Step 02: Click to 'Add New' button
+[2023-05-31 16:28:53,313] Create_Post - Step 03: Enter to post title
+[2023-05-31 16:28:54,892] Create_Post - Step 04: Enter to body
+[2023-05-31 16:28:55,554] OS name = Windows 10
+[2023-05-31 16:28:55,554] Driver instance name = chromedriver: chrome on windows (59f4ddb8ae5a535d342101fdbeb2d6ff)
+[2023-06-01 00:16:25,897] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-01 00:16:32,231] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-01 00:16:32,420] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-01 00:16:32,550] Pre-Condition - Step 04: Click to Login button
+[2023-06-01 00:16:35,543] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-01 00:16:37,033] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-01 00:16:37,041] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-01 00:16:39,721] Create_Post - Step 04: Enter to post title
+[2023-06-01 00:16:40,206] Create_Post - Step 05: Enter to body
+[2023-06-01 00:16:40,468] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-01 00:16:40,555] OS name = Windows 10
+[2023-06-01 00:16:40,555] Driver instance name = chromedriver: chrome on windows (8fdcf9cf0669c12a4e79df2f596ad039)
+[2023-06-01 00:16:40,697] unexpected alert open: {Alert text : }
+  (Session info: chrome=113.0.5672.127): {Alert text : 
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-M924D1H', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49776}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fdcf9cf0669c12a4e79df2f596ad039
+[2023-06-01 00:29:49,567] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-01 00:29:54,191] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-01 00:29:54,453] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-01 00:29:54,573] Pre-Condition - Step 04: Click to Login button
+[2023-06-01 00:29:57,879] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-01 00:29:59,370] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-01 00:29:59,382] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-01 00:30:02,169] Create_Post - Step 04: Enter to post title
+[2023-06-01 00:30:02,766] Create_Post - Step 05: Enter to body
+[2023-06-01 00:30:33,259] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-01 00:30:33,309] OS name = Windows 10
+[2023-06-01 00:30:33,309] Driver instance name = chromedriver: chrome on windows (92618c420e735aa2882b2203a4302919)
+[2023-06-01 00:30:33,338] unexpected alert open: {Alert text : }
+  (Session info: chrome=113.0.5672.127): {Alert text : 
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-M924D1H', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50385}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 92618c420e735aa2882b2203a4302919
+[2023-06-01 00:32:45,350] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-01 00:32:50,590] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-01 00:32:50,779] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-01 00:32:50,923] Pre-Condition - Step 04: Click to Login button
+[2023-06-01 00:32:54,782] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-01 00:32:56,669] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-01 00:32:56,682] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-01 00:33:00,853] Create_Post - Step 04: Enter to post title
+[2023-06-01 00:33:02,010] Create_Post - Step 05: Enter to body
+[2023-06-01 00:33:26,480] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-01 00:33:26,516] OS name = Windows 10
+[2023-06-01 00:33:26,516] Driver instance name = chromedriver: chrome on windows (fd1f6064d4db60e9d2ba03f26417c60f)
+[2023-06-01 00:33:26,540] unexpected alert open: {Alert text : }
+  (Session info: chrome=113.0.5672.127): {Alert text : 
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-M924D1H', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50720}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fd1f6064d4db60e9d2ba03f26417c60f
+[2023-06-01 00:35:00,327] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-01 00:35:05,213] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-01 00:35:05,461] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-01 00:35:05,590] Pre-Condition - Step 04: Click to Login button
+[2023-06-01 00:35:08,931] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-01 00:35:10,599] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-01 00:35:10,611] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-01 00:35:13,667] Create_Post - Step 04: Enter to post title
+[2023-06-01 00:35:14,353] Create_Post - Step 05: Enter to body
+[2023-06-01 00:35:15,240] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-01 00:35:15,685] Create_Post - Step 07: Verify 'Post published' message is displayed
+[2023-06-01 23:30:12,458] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-01 23:30:20,478] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-01 23:30:20,661] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-01 23:30:20,775] Pre-Condition - Step 04: Click to Login button
+[2023-06-01 23:30:23,842] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-01 23:30:25,334] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-01 23:30:25,342] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-01 23:30:27,998] Create_Post - Step 04: Enter to post title
+[2023-06-01 23:30:28,618] Create_Post - Step 05: Enter to body
+[2023-06-01 23:30:29,415] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-01 23:30:29,788] Create_Post - Step 07: Verify 'Post published' message is displayed
+[2023-06-01 23:31:00,053] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-01 23:31:00,142] OS name = Windows 10
+[2023-06-01 23:31:00,142] Driver instance name = chromedriver: chrome on windows (a9b917513afd0eb28f11b29280575544)
+[2023-06-01 23:31:00,163] unexpected alert open: {Alert text : }
+  (Session info: chrome=113.0.5672.127): {Alert text : 
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-M924D1H', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55272}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a9b917513afd0eb28f11b29280575544
+[2023-06-01 23:34:11,475] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-01 23:34:15,306] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-01 23:34:15,500] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-01 23:34:15,617] Pre-Condition - Step 04: Click to Login button
+[2023-06-01 23:34:18,758] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-01 23:34:20,368] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-01 23:34:20,377] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-01 23:34:23,196] Create_Post - Step 04: Enter to post title
+[2023-06-01 23:34:23,861] Create_Post - Step 05: Enter to body
+[2023-06-01 23:34:24,831] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-01 23:34:55,072] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-01 23:34:55,111] OS name = Windows 10
+[2023-06-01 23:34:55,111] Driver instance name = chromedriver: chrome on windows (4dfba19feaf1db86ff12272dc1fd0489)
+[2023-06-01 23:34:55,133] unexpected alert open: {Alert text : }
+  (Session info: chrome=113.0.5672.127): {Alert text : 
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-M924D1H', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55785}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4dfba19feaf1db86ff12272dc1fd0489
+[2023-06-01 23:35:27,932] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-01 23:35:31,384] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-01 23:35:31,613] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-01 23:35:31,731] Pre-Condition - Step 04: Click to Login button
+[2023-06-01 23:35:34,779] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-01 23:35:36,387] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-01 23:35:36,395] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-01 23:35:39,162] Create_Post - Step 04: Enter to post title
+[2023-06-01 23:35:39,833] Create_Post - Step 05: Enter to body
+[2023-06-01 23:35:40,605] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-01 23:36:12,225] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-01 23:36:12,301] OS name = Windows 10
+[2023-06-01 23:36:12,301] Driver instance name = chromedriver: chrome on windows (5befc804b47f865554fd39fb73dcd334)
+[2023-06-01 23:36:12,322] unexpected alert open: {Alert text : }
+  (Session info: chrome=113.0.5672.127): {Alert text : 
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-M924D1H', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55924}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5befc804b47f865554fd39fb73dcd334
+[2023-06-01 23:58:06,767] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-01 23:58:11,584] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-01 23:58:11,749] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-01 23:58:11,888] Pre-Condition - Step 04: Click to Login button
+[2023-06-01 23:58:15,205] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-01 23:58:16,759] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-01 23:58:16,767] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-01 23:58:19,483] Create_Post - Step 04: Enter to post title
+[2023-06-01 23:58:20,110] Create_Post - Step 05: Enter to body
+[2023-06-01 23:58:20,878] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-01 23:58:21,214] Create_Post - Step 07: Verify 'Post published' message is displayed
+[2023-06-01 23:58:37,651]  -------------------------- FAILED -------------------------- 
+[2023-06-01 23:58:37,896] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-01 23:58:39,632] OS name = Windows 10
+[2023-06-01 23:58:39,632] Driver instance name = chromedriver: chrome on windows (2ad02f98b0ec257b8cf5da0963d33326)
+[2023-06-02 16:40:14,284] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-02 16:40:18,055] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-02 16:40:34,894] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-02 16:40:35,022] Pre-Condition - Step 04: Click to Login button
+[2023-06-02 16:40:39,703] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-02 16:40:41,788] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-02 16:40:41,793] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-02 16:40:46,667] Create_Post - Step 04: Enter to post title
+[2023-06-02 16:40:47,291] Create_Post - Step 05: Enter to body
+[2023-06-02 16:40:48,006] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-02 16:40:48,427] Create_Post - Step 07: Verify 'Post published' message is displayed
+[2023-06-02 16:40:54,122] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-02 16:40:54,172] OS name = Windows 10
+[2023-06-02 16:40:54,173] Driver instance name = chromedriver: chrome on windows (d9dbad273769ac0a2772aacefbf0965d)
+[2023-06-02 16:40:54,203] unexpected alert open: {Alert text : }
+  (Session info: chrome=113.0.5672.127): {Alert text : 
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-M924D1H', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52473}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9dbad273769ac0a2772aacefbf0965d
+[2023-06-02 16:43:58,372] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-02 16:43:59,852] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-02 16:44:16,105] OS name = Windows 10
+[2023-06-02 16:44:16,106] Driver instance name = chromedriver: chrome on windows (b82cf9b06449d54a19bd86f55fba730a)
+[2023-06-02 16:44:16,111] disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-M924D1H', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52634}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b82cf9b06449d54a19bd86f55fba730a
+[2023-06-02 16:45:03,064] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-02 16:45:04,580] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-02 16:45:34,636] OS name = Windows 10
+[2023-06-02 16:45:34,636] Driver instance name = chromedriver: chrome on windows (f510727c5ed1970f8fa06784ddc1c277)
+[2023-06-02 16:46:06,111] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-02 16:46:13,220] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-02 16:46:13,404] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-02 16:46:13,461] Pre-Condition - Step 04: Click to Login button
+[2023-06-02 16:46:17,471] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-02 16:46:19,233] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-02 16:46:19,236] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-02 16:46:22,135] Create_Post - Step 04: Enter to post title
+[2023-06-02 16:46:22,595] Create_Post - Step 05: Enter to body
+[2023-06-02 16:46:23,581] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-02 16:46:24,080] Create_Post - Step 07: Verify 'Post published' message is displayed
+[2023-06-02 16:46:35,348]  -------------------------- FAILED -------------------------- 
+[2023-06-02 16:46:35,465] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-02 16:46:37,948] OS name = Windows 10
+[2023-06-02 16:46:37,949] Driver instance name = firefoxdriver: firefox on windows (b3d41593-5de2-474d-a5c8-7c80db5b949d)
+[2023-06-02 23:45:52,735] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-02 23:46:00,714] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-02 23:46:00,950] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-02 23:46:00,999] Pre-Condition - Step 04: Click to Login button
+[2023-06-02 23:46:04,438] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-02 23:46:06,639] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-02 23:46:06,642] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-02 23:46:09,630] Create_Post - Step 04: Enter to post title
+[2023-06-02 23:46:10,069] Create_Post - Step 05: Enter to body
+[2023-06-02 23:46:11,007] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-02 23:46:13,767] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-02 23:46:15,563] OS name = Windows 10
+[2023-06-02 23:46:15,564] Driver instance name = firefoxdriver: firefox on windows (43eb8d53-e57d-4a16-b953-0322bd831978)
+[2023-06-02 23:50:18,972] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-02 23:50:25,338] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-02 23:50:25,499] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-02 23:50:25,553] Pre-Condition - Step 04: Click to Login button
+[2023-06-02 23:50:28,605] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-02 23:50:30,240] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-02 23:50:30,243] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-02 23:50:32,955] Create_Post - Step 04: Enter to post title
+[2023-06-02 23:50:33,394] Create_Post - Step 05: Enter to body
+[2023-06-02 23:50:34,516] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-02 23:50:37,377] Create_Post - Step 07: Verify 'Post published' message is displayed
+[2023-06-02 23:50:37,385] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-02 23:50:39,107] OS name = Windows 10
+[2023-06-02 23:50:39,108] Driver instance name = firefoxdriver: firefox on windows (756cd32d-1097-45f9-b5b1-e1da8b085187)
+[2023-06-03 00:06:12,582] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-03 00:06:18,795] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-03 00:06:18,952] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-03 00:06:19,001] Pre-Condition - Step 04: Click to Login button
+[2023-06-03 00:06:21,817] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-03 00:06:23,550] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-03 00:06:23,556] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-03 00:06:26,206] Create_Post - Step 04: Enter to post title
+[2023-06-03 00:06:26,651] Create_Post - Step 05: Enter to body
+[2023-06-03 00:06:27,788] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-03 00:06:30,558] Create_Post - Step 07: Verify 'Post published' message is displayed
+[2023-06-03 00:06:30,566] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-03 00:06:32,123] OS name = Windows 10
+[2023-06-03 00:06:32,123] Driver instance name = firefoxdriver: firefox on windows (7f77a2bf-3b16-4bf8-b476-8b8963fdf41e)
+[2023-06-03 00:09:17,844] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-03 00:09:24,540] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-03 00:09:24,709] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-03 00:09:24,767] Pre-Condition - Step 04: Click to Login button
+[2023-06-03 00:09:27,978] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-03 00:09:29,653] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-03 00:09:29,656] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-03 00:09:32,456] Create_Post - Step 04: Enter to post title
+[2023-06-03 00:09:32,912] Create_Post - Step 05: Enter to body
+[2023-06-03 00:09:33,957] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-03 00:09:34,470] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-03 00:09:35,086] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-03 00:09:35,100] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-03 00:09:37,305] OS name = Windows 10
+[2023-06-03 00:09:37,306] Driver instance name = firefoxdriver: firefox on windows (fdf7881e-f334-4813-8d8d-0383cc75befa)
+[2023-06-03 00:10:10,593] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-03 00:10:15,946] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-03 00:10:16,141] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-03 00:10:16,203] Pre-Condition - Step 04: Click to Login button
+[2023-06-03 00:10:19,172] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-03 00:10:20,855] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-03 00:10:20,861] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-03 00:10:23,761] Create_Post - Step 04: Enter to post title
+[2023-06-03 00:10:24,308] Create_Post - Step 05: Enter to body
+[2023-06-03 00:10:25,530] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-03 00:10:26,038] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-03 00:10:26,666] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-03 00:10:26,672] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-03 00:10:28,721] OS name = Windows 10
+[2023-06-03 00:10:28,721] Driver instance name = firefoxdriver: firefox on windows (e1289dcf-6592-4eda-af5b-559f629639b1)
+[2023-06-03 00:17:11,754] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-03 00:17:16,962] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-03 00:17:17,134] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-03 00:17:17,189] Pre-Condition - Step 04: Click to Login button
+[2023-06-03 00:17:20,202] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-03 00:17:21,785] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-03 00:17:21,789] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-03 00:17:24,487] Create_Post - Step 04: Enter to post title
+[2023-06-03 00:17:24,921] Create_Post - Step 05: Enter to body
+[2023-06-03 00:17:26,027] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-03 00:17:26,569] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-03 00:17:27,236] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-03 00:17:29,810]  -------------------------- PASSED -------------------------- 
+[2023-06-03 00:17:29,814] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-03 00:17:31,397] OS name = Windows 10
+[2023-06-03 00:17:31,397] Driver instance name = firefoxdriver: firefox on windows (0bc734da-fb13-4db9-aa13-8d7c76a74087)
+[2023-06-03 00:19:11,812] Pre-Condition - Step 01: Open browser and admin url
+[2023-06-03 00:19:17,195] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-03 00:19:17,367] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-03 00:19:17,425] Pre-Condition - Step 04: Click to Login button
+[2023-06-03 00:19:20,330] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-03 00:19:22,032] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-03 00:19:22,035] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-03 00:19:24,715] Create_Post - Step 04: Enter to post title
+[2023-06-03 00:19:25,200] Create_Post - Step 05: Enter to body
+[2023-06-03 00:19:26,388] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-03 00:19:26,870] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-03 00:19:27,292] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-03 00:19:30,310]  -------------------------- PASSED -------------------------- 
+[2023-06-03 00:19:30,314] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-03 00:19:32,779] OS name = Windows 10
+[2023-06-03 00:19:32,779] Driver instance name = firefoxdriver: firefox on windows (f8c97bc6-20bd-49a7-adfb-c9535a7b0c65)
+[2023-06-07 15:22:05,067] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-07 15:22:12,196] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-07 15:22:12,312] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-07 15:22:12,360] Pre-Condition - Step 04: Click to Login button
+[2023-06-07 15:22:16,188] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-07 15:22:18,543] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-07 15:22:18,548] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-07 15:22:24,438] Create_Post - Step 04: Enter to post title
+[2023-06-07 15:22:24,879] Create_Post - Step 05: Enter to body
+[2023-06-07 15:22:25,842] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-07 15:22:26,366] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-07 15:22:26,735] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-07 15:22:29,846]  -------------------------- PASSED -------------------------- 
+[2023-06-07 15:22:29,857] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-07 15:22:33,374] Search_Post - Step 02: Enter to Search textbox
+[2023-06-07 15:22:33,501] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-07 15:22:36,389] Search_Post - Step 04: Verify Search table contains: Live Coding Title 2926
+[2023-06-07 15:22:36,390]  -------------------------- FAILED -------------------------- 
+[2023-06-07 15:22:36,390] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-07 15:22:36,390]  -------------------------- FAILED -------------------------- 
+[2023-06-07 15:22:36,390] Search_Post - Step 06: Open End User site
+[2023-06-07 15:22:36,390] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-07 15:22:36,680] OS name = Windows 10
+[2023-06-07 15:22:36,680] Driver instance name = firefoxdriver: firefox on windows (cc55aaa7-6714-495f-a972-bb20ff068e16)
+[2023-06-07 16:02:54,220] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-07 16:03:00,508] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-07 16:03:00,634] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-07 16:03:00,684] Pre-Condition - Step 04: Click to Login button
+[2023-06-07 16:03:03,531] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-07 16:03:05,065] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-07 16:03:05,071] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-07 16:03:07,802] Create_Post - Step 04: Enter to post title
+[2023-06-07 16:03:08,250] Create_Post - Step 05: Enter to body
+[2023-06-07 16:03:09,258] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-07 16:03:09,714] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-07 16:03:10,419] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-07 16:03:13,749]  -------------------------- PASSED -------------------------- 
+[2023-06-07 16:03:13,753] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-07 16:03:16,134] Search_Post - Step 02: Enter to Search textbox
+[2023-06-07 16:03:16,246] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-07 16:03:18,725] Search_Post - Step 04: Verify Search table contains: Live Coding Title 7748
+[2023-06-07 16:03:48,944] OS name = Windows 10
+[2023-06-07 16:03:48,945] Driver instance name = firefoxdriver: firefox on windows (f865ce58-467f-47fc-8b63-87aa58a067f8)
+[2023-06-07 16:07:25,825] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-07 16:07:31,780] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-07 16:07:31,949] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-07 16:07:32,000] Pre-Condition - Step 04: Click to Login button
+[2023-06-07 16:07:34,739] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-07 16:07:36,352] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-07 16:07:36,355] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-07 16:07:39,018] Create_Post - Step 04: Enter to post title
+[2023-06-07 16:07:39,436] Create_Post - Step 05: Enter to body
+[2023-06-07 16:07:40,557] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-07 16:07:41,023] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-07 16:07:41,580] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-07 16:07:44,572]  -------------------------- PASSED -------------------------- 
+[2023-06-07 16:07:44,575] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-07 16:07:46,975] Search_Post - Step 02: Enter to Search textbox
+[2023-06-07 16:07:47,081] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-07 16:07:49,509] Search_Post - Step 04: Verify Search table contains: Live Coding Title 1503
+[2023-06-07 16:07:49,580]  -------------------------- PASSED -------------------------- 
+[2023-06-07 16:07:49,580] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-07 16:07:49,622]  -------------------------- PASSED -------------------------- 
+[2023-06-07 16:07:49,622] Search_Post - Step 06: Open End User site
+[2023-06-07 16:07:49,622] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-07 16:07:49,737] OS name = Windows 10
+[2023-06-07 16:07:49,737] Driver instance name = firefoxdriver: firefox on windows (acfab9ce-7c7b-4857-bb21-6b6ebb5d6158)
+[2023-06-09 00:12:59,065] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 00:13:07,382] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 00:13:07,563] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 00:13:07,609] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 00:13:12,893] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 00:13:19,122] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 00:13:19,126] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 00:13:24,442] Create_Post - Step 04: Enter to post title
+[2023-06-09 00:13:29,807] Create_Post - Step 05: Enter to body
+[2023-06-09 00:13:30,376] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 00:13:30,734] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 00:13:31,009] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 00:14:01,646] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 00:14:09,221] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 00:14:09,316] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 00:14:11,858] Search_Post - Step 04: Verify Search table contains: Live Coding Title 2090
+[2023-06-09 00:14:27,341] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 00:14:33,020] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 00:14:33,164] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 00:14:33,212] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 00:14:37,095] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 00:14:39,157] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 00:14:39,160] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 00:14:43,827] Create_Post - Step 04: Enter to post title
+[2023-06-09 00:14:44,219] Create_Post - Step 05: Enter to body
+[2023-06-09 00:14:45,091] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 00:14:45,575] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 00:14:46,039] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 00:14:49,280]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:14:49,284] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 00:14:50,746] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 00:14:50,870] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 00:14:53,487] Search_Post - Step 04: Verify Search table contains: Live Coding Title 7850
+[2023-06-09 00:14:53,562]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:14:53,562] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 00:14:53,603]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:14:53,603] Search_Post - Step 06: Open End User site
+[2023-06-09 00:14:57,277] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 00:14:57,326]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:14:57,365]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:14:57,405]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:15:27,513] OS name = Windows 10
+[2023-06-09 00:15:27,513] Driver instance name = firefoxdriver: firefox on windows (f8bf1761-4eb9-4e17-8056-da93afccf1a6)
+[2023-06-09 00:24:15,818] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 00:24:21,832] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 00:24:22,014] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 00:24:22,060] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 00:24:24,808] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 00:24:26,334] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 00:24:26,337] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 00:24:28,970] Create_Post - Step 04: Enter to post title
+[2023-06-09 00:24:29,371] Create_Post - Step 05: Enter to body
+[2023-06-09 00:24:30,364] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 00:24:30,836] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 00:24:31,557] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 00:24:33,799]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:24:33,804] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 00:24:35,401] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 00:24:35,559] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 00:24:38,466] Search_Post - Step 04: Verify Search table contains: Live Coding Title 7043
+[2023-06-09 00:24:38,547]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:24:38,547] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 00:24:38,590]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:24:38,590] Search_Post - Step 06: Open End User site
+[2023-06-09 00:24:40,156] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 00:24:40,201]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:24:40,255]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:24:40,293]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:25:10,390] OS name = Windows 10
+[2023-06-09 00:25:10,390] Driver instance name = firefoxdriver: firefox on windows (c157f4ba-9ea7-4a2c-8f87-f9c51ad04ec8)
+[2023-06-09 00:35:39,890] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 00:35:45,833] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 00:35:45,999] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 00:35:46,052] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 00:35:48,842] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 00:35:50,361] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 00:35:50,363] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 00:35:52,911] Create_Post - Step 04: Enter to post title
+[2023-06-09 00:35:53,342] Create_Post - Step 05: Enter to body
+[2023-06-09 00:35:54,273] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 00:35:54,834] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 00:35:55,299] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 00:35:57,993]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:35:58,104] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 00:36:00,498] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 00:36:00,623] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 00:36:03,128] Search_Post - Step 04: Verify Search table contains: Live Coding Title 7791
+[2023-06-09 00:36:03,198]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:36:03,199] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 00:36:03,244]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:36:03,244] Search_Post - Step 06: Open End User site
+[2023-06-09 00:36:04,891] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 00:36:04,940]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:36:04,980]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:36:05,018]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:36:35,274] OS name = Windows 10
+[2023-06-09 00:36:35,274] Driver instance name = firefoxdriver: firefox on windows (c49dd131-1c23-412e-bf48-fa4b8d37b11f)
+[2023-06-09 00:37:37,864] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 00:37:44,290] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 00:37:44,482] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 00:37:44,537] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 00:37:49,301] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 00:37:51,131] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 00:37:51,134] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 00:37:54,669] Create_Post - Step 04: Enter to post title
+[2023-06-09 00:37:55,078] Create_Post - Step 05: Enter to body
+[2023-06-09 00:37:56,226] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 00:37:56,999] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 00:37:57,647] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 00:38:02,305]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:38:02,311] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 00:38:05,299] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 00:38:05,450] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 00:38:09,024] Search_Post - Step 04: Verify Search table contains: Live Coding Title 4165
+[2023-06-09 00:38:09,107]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:38:09,108] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 00:38:09,153]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:38:09,153] Search_Post - Step 06: Open End User site
+[2023-06-09 00:38:13,099] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 00:38:13,148]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:38:13,191]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:38:13,231]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:38:13,231] Search_Post - Step 08: Click to Post title
+[2023-06-09 00:38:14,623] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-09 00:38:14,715] OS name = Windows 10
+[2023-06-09 00:38:14,715] Driver instance name = firefoxdriver: firefox on windows (892fe9c7-df2d-41cd-8077-bab1caba2cbc)
+[2023-06-09 00:40:00,440] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 00:40:06,399] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 00:40:06,572] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 00:40:06,617] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 00:40:09,380] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 00:40:11,007] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 00:40:11,010] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 00:40:13,638] Create_Post - Step 04: Enter to post title
+[2023-06-09 00:40:14,028] Create_Post - Step 05: Enter to body
+[2023-06-09 00:40:15,142] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 00:40:15,657] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 00:40:16,198] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 00:40:18,775]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:40:18,780] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 00:40:20,254] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 00:40:20,427] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 00:40:23,516] Search_Post - Step 04: Verify Search table contains: Live Coding Title 7388
+[2023-06-09 00:40:23,591]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:40:23,591] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 00:40:23,630]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:40:23,630] Search_Post - Step 06: Open End User site
+[2023-06-09 00:40:25,252] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 00:40:25,308]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:40:25,352]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:40:25,389]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:40:25,389] Search_Post - Step 08: Click to Post title
+[2023-06-09 00:40:26,717] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-09 00:40:56,854] OS name = Windows 10
+[2023-06-09 00:40:56,854] Driver instance name = firefoxdriver: firefox on windows (54deaea6-257e-4976-872f-c59d863831c8)
+[2023-06-09 00:44:40,891] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 00:44:47,979] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 00:44:48,126] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 00:44:48,169] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 00:44:51,134] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 00:44:52,696] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 00:44:52,699] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 00:44:55,286] Create_Post - Step 04: Enter to post title
+[2023-06-09 00:44:55,715] Create_Post - Step 05: Enter to body
+[2023-06-09 00:44:56,703] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 00:44:57,167] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 00:44:57,846] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 00:45:00,088]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:45:00,092] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 00:45:02,469] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 00:45:02,572] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 00:45:05,035] Search_Post - Step 04: Verify Search table contains: Live Coding Title 5467
+[2023-06-09 00:45:05,107]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:45:05,107] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 00:45:05,150]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:45:05,150] Search_Post - Step 06: Open End User site
+[2023-06-09 00:45:06,704] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 00:45:06,757]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:45:06,799]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:45:06,838]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:45:06,838] Search_Post - Step 08: Click to Post title
+[2023-06-09 00:45:08,127] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-09 00:45:38,267] OS name = Windows 10
+[2023-06-09 00:45:38,267] Driver instance name = firefoxdriver: firefox on windows (6e9055b9-5eb0-4144-b1a3-3c756134bc99)
+[2023-06-09 00:47:05,734] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 00:47:11,867] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 00:47:12,037] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 00:47:12,086] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 00:47:14,987] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 00:47:16,710] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 00:47:16,713] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 00:47:20,441] Create_Post - Step 04: Enter to post title
+[2023-06-09 00:47:20,939] Create_Post - Step 05: Enter to body
+[2023-06-09 00:47:21,952] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 00:47:22,472] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 00:47:22,905] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 00:47:26,354]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:47:26,358] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 00:47:28,982] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 00:47:29,075] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 00:47:31,682] Search_Post - Step 04: Verify Search table contains: Live Coding Title 7082
+[2023-06-09 00:47:31,755]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:47:31,755] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 00:47:31,795]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:47:31,795] Search_Post - Step 06: Open End User site
+[2023-06-09 00:47:33,383] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 00:47:33,430]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:47:33,469]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:47:33,508]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:47:33,508] Search_Post - Step 08: Click to Post title
+[2023-06-09 00:47:34,827] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-09 00:47:34,883]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:47:34,919]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:47:34,955]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:47:34,963] OS name = Windows 10
+[2023-06-09 00:47:34,963] Driver instance name = firefoxdriver: firefox on windows (938e0c34-ae2e-4146-b80d-511dee239daf)
+[2023-06-09 00:52:51,682] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 00:52:58,113] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 00:52:58,290] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 00:52:58,338] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 00:53:01,222] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 00:53:03,125] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 00:53:03,128] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 00:53:06,004] Create_Post - Step 04: Enter to post title
+[2023-06-09 00:53:06,431] Create_Post - Step 05: Enter to body
+[2023-06-09 00:53:07,858] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 00:53:08,495] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 00:53:09,298] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 00:53:12,471]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:12,476] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 00:53:15,224] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 00:53:15,341] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 00:53:17,928] Search_Post - Step 04: Verify Search table contains: Live Coding Title 3483
+[2023-06-09 00:53:18,007]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:18,008] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 00:53:18,050]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:18,050] Search_Post - Step 06: Open End User site
+[2023-06-09 00:53:19,794] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 00:53:19,878]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:19,972]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:20,017]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:20,059]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:20,059] Search_Post - Step 08: Click to Post title
+[2023-06-09 00:53:21,444] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-09 00:53:21,498]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:21,537]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:21,577]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:21,612]  -------------------------- PASSED -------------------------- 
+[2023-06-09 00:53:21,622] OS name = Windows 10
+[2023-06-09 00:53:21,623] Driver instance name = firefoxdriver: firefox on windows (70ca8a2f-9bd1-463a-b4b5-a6e1c0870087)
+[2023-06-09 15:43:53,835] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 15:44:01,261] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 15:44:01,423] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 15:44:01,472] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 15:44:04,366] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 15:44:06,110] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 15:44:06,115] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 15:44:08,957] Create_Post - Step 04: Enter to post title
+[2023-06-09 15:44:09,398] Create_Post - Step 05: Enter to body
+[2023-06-09 15:44:10,662] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 15:44:11,154] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 15:44:11,610] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 15:44:15,131]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:15,242] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 15:44:17,697] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 15:44:17,811] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 15:44:20,314] Search_Post - Step 04: Verify Search table contains: Live Coding Title 9580
+[2023-06-09 15:44:20,396]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:20,396] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 15:44:20,438]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:20,438] Search_Post - Step 06: Open End User site
+[2023-06-09 15:44:22,055] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 15:44:22,108]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:22,144]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:22,188]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:22,228]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:22,228] Search_Post - Step 08: Click to Post title
+[2023-06-09 15:44:23,520] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-09 15:44:23,573]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:23,611]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:23,653]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:23,689]  -------------------------- PASSED -------------------------- 
+[2023-06-09 15:44:23,803] OS name = Windows 10
+[2023-06-09 15:44:23,803] Driver instance name = firefoxdriver: firefox on windows (2a2235a3-c94c-4fc7-a285-062947319665)
+[2023-06-09 23:23:53,170] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 23:24:01,504] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 23:24:01,740] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 23:24:01,792] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 23:24:04,630] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 23:24:06,307] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 23:24:06,310] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 23:24:08,935] Create_Post - Step 04: Enter to post title
+[2023-06-09 23:24:09,403] Create_Post - Step 05: Enter to body
+[2023-06-09 23:24:10,548] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 23:24:10,988] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 23:24:11,725] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 23:24:14,293]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:14,295] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 23:24:15,786] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 23:24:15,921] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 23:24:18,545] Search_Post - Step 04: Verify Search table contains: Live Coding Title 3010
+[2023-06-09 23:24:18,612]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:18,612] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 23:24:18,653]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:18,653] Search_Post - Step 06: Open End User site
+[2023-06-09 23:24:21,708] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 23:24:21,749]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:21,788]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:21,830]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:21,869]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:21,869] Search_Post - Step 08: Click to Post title
+[2023-06-09 23:24:23,192] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-09 23:24:23,243]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:23,281]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:23,318]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:23,354]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:24:23,355] Edit_Post - Step 01: Open admin site
+[2023-06-09 23:24:24,850] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-09 23:24:26,321] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-09 23:24:26,450] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-09 23:24:29,150] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-09 23:24:29,331] OS name = Windows 10
+[2023-06-09 23:24:29,331] Driver instance name = firefoxdriver: firefox on windows (9ac5430a-bd55-496a-84dc-4696a1b30a51)
+[2023-06-09 23:25:08,830] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-09 23:25:13,765] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-09 23:25:13,943] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-09 23:25:13,990] Pre-Condition - Step 04: Click to Login button
+[2023-06-09 23:25:16,830] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-09 23:25:18,441] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-09 23:25:18,444] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-09 23:25:21,229] Create_Post - Step 04: Enter to post title
+[2023-06-09 23:25:21,654] Create_Post - Step 05: Enter to body
+[2023-06-09 23:25:22,786] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-09 23:25:23,265] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-09 23:25:23,799] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-09 23:25:27,218]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:27,220] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-09 23:25:28,639] Search_Post - Step 02: Enter to Search textbox
+[2023-06-09 23:25:28,768] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-09 23:25:31,339] Search_Post - Step 04: Verify Search table contains: Live Coding Title 3156
+[2023-06-09 23:25:31,420]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:31,420] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-09 23:25:31,457]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:31,458] Search_Post - Step 06: Open End User site
+[2023-06-09 23:25:33,048] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-09 23:25:33,119]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:33,177]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:33,216]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:33,254]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:33,254] Search_Post - Step 08: Click to Post title
+[2023-06-09 23:25:34,554] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-09 23:25:34,607]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:34,647]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:34,684]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:34,718]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:34,720] Edit_Post - Step 01: Open admin site
+[2023-06-09 23:25:36,348] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-09 23:25:37,795] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-09 23:25:37,882] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-09 23:25:40,365] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-09 23:25:43,242] Edit_Post - Step 06: Edit post title
+[2023-06-09 23:25:43,596] Edit_Post - Step 07: Edit post body
+[2023-06-09 23:25:44,762] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-09 23:25:45,432] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-09 23:25:48,782]  -------------------------- PASSED -------------------------- 
+[2023-06-09 23:25:48,785] OS name = Windows 10
+[2023-06-09 23:25:48,786] Driver instance name = firefoxdriver: firefox on windows (0903dfbc-1719-44eb-941e-b4a386c74c76)
+[2023-06-10 00:11:24,759] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-10 00:11:31,716] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-10 00:11:32,006] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-10 00:11:32,057] Pre-Condition - Step 04: Click to Login button
+[2023-06-10 00:11:34,839] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-10 00:11:36,448] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-10 00:11:36,454] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-10 00:11:39,100] Create_Post - Step 04: Enter to post title
+[2023-06-10 00:11:39,521] Create_Post - Step 05: Enter to body
+[2023-06-10 00:12:20,218] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-10 00:12:25,024] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-10 00:12:25,199] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-10 00:12:25,244] Pre-Condition - Step 04: Click to Login button
+[2023-06-10 00:12:28,016] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-10 00:12:29,561] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-10 00:12:29,563] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-10 00:12:32,270] Create_Post - Step 04: Enter to post title
+[2023-06-10 00:12:32,685] Create_Post - Step 05: Enter to body
+[2023-06-10 00:13:30,997] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-10 00:13:37,272] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-10 00:13:37,453] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-10 00:13:37,498] Pre-Condition - Step 04: Click to Login button
+[2023-06-10 00:13:40,700] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-10 00:13:42,285] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-10 00:13:42,287] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-10 00:13:44,952] Create_Post - Step 04: Enter to post title
+[2023-06-10 00:13:45,402] Create_Post - Step 05: Enter to body
+[2023-06-10 00:13:46,609] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-10 00:13:47,170] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-10 00:13:47,696] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-10 00:13:50,998]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:51,001] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-10 00:13:52,475] Search_Post - Step 02: Enter to Search textbox
+[2023-06-10 00:13:52,604] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-10 00:13:55,221] Search_Post - Step 04: Verify Search table contains: Live Coding Title 420
+[2023-06-10 00:13:55,294]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:55,295] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-10 00:13:55,332]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:55,332] Search_Post - Step 06: Open End User site
+[2023-06-10 00:13:57,094] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-10 00:13:57,174]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:57,215]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:57,255]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:57,291]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:57,291] Search_Post - Step 08: Click to Post title
+[2023-06-10 00:13:58,661] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-10 00:13:58,713]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:58,750]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:58,785]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:58,822]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:13:58,824] Edit_Post - Step 01: Open admin site
+[2023-06-10 00:14:00,219] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-10 00:14:01,693] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-10 00:14:01,787] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-10 00:14:04,339] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-10 00:14:07,257] Edit_Post - Step 06: Edit post title
+[2023-06-10 00:14:07,679] Edit_Post - Step 07: Edit post body
+[2023-06-10 00:14:08,720] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-10 00:14:09,335] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-10 00:14:11,885]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:14:11,885] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-10 00:14:14,404] Search_Post - Step 02: Enter to Search textbox
+[2023-06-10 00:14:14,511] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-10 00:14:17,509] Search_Post - Step 04: Verify Search table contains: Live Coding Title 420
+[2023-06-10 00:14:47,691] OS name = Windows 10
+[2023-06-10 00:14:47,692] Driver instance name = firefoxdriver: firefox on windows (afe99ac8-6fbc-433c-8250-9a21cd24597d)
+[2023-06-10 00:22:39,379] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-10 00:22:45,306] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-10 00:22:45,489] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-10 00:22:45,533] Pre-Condition - Step 04: Click to Login button
+[2023-06-10 00:22:48,415] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-10 00:22:49,960] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-10 00:22:49,966] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-10 00:22:52,641] Create_Post - Step 04: Enter to post title
+[2023-06-10 00:22:53,096] Create_Post - Step 05: Enter to body
+[2023-06-10 00:22:54,107] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-10 00:22:54,613] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-10 00:22:55,141] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-10 00:22:57,579]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:22:57,582] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-10 00:22:59,969] Search_Post - Step 02: Enter to Search textbox
+[2023-06-10 00:23:00,085] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-10 00:23:02,533] Search_Post - Step 04: Verify Search table contains: Live Coding Title 8240
+[2023-06-10 00:23:02,610]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:02,610] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-10 00:23:02,656]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:02,656] Search_Post - Step 06: Open End User site
+[2023-06-10 00:23:04,422] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-10 00:23:04,483]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:04,523]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:04,564]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:04,608]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:04,608] Search_Post - Step 08: Click to Post title
+[2023-06-10 00:23:05,914] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-10 00:23:05,967]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:06,002]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:06,038]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:06,076]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:06,077] Edit_Post - Step 01: Open admin site
+[2023-06-10 00:23:07,476] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-10 00:23:08,916] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-10 00:23:09,008] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-10 00:23:11,563] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-10 00:23:14,512] Edit_Post - Step 06: Edit post title
+[2023-06-10 00:23:14,913] Edit_Post - Step 07: Edit post body
+[2023-06-10 00:23:15,889] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-10 00:23:16,403] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-10 00:23:18,659]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:18,659] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-10 00:23:21,156] Search_Post - Step 02: Enter to Search textbox
+[2023-06-10 00:23:21,262] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-10 00:23:24,027] Search_Post - Step 04: Verify Search table contains: Edit Title 8240
+[2023-06-10 00:23:24,109]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:24,110] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-10 00:23:24,155]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:24,155] Search_Post - Step 06: Open End User site
+[2023-06-10 00:23:26,033] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-10 00:23:26,114]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:26,180]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:26,224]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:26,262]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:26,263] Search_Post - Step 08: Click to Post title
+[2023-06-10 00:23:27,618] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-10 00:23:27,675]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:27,711]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:27,745]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:27,779]  -------------------------- PASSED -------------------------- 
+[2023-06-10 00:23:27,784] OS name = Windows 10
+[2023-06-10 00:23:27,784] Driver instance name = firefoxdriver: firefox on windows (e9d7cdfb-561e-4495-bf8d-5ec20d045126)
+[2023-06-13 15:00:22,586] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-13 15:00:30,155] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-13 15:00:30,274] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-13 15:00:30,322] Pre-Condition - Step 04: Click to Login button
+[2023-06-13 15:00:33,080] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-13 15:00:34,887] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-13 15:00:34,890] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-13 15:00:38,954] Create_Post - Step 04: Enter to post title
+[2023-06-13 15:00:39,395] Create_Post - Step 05: Enter to body
+[2023-06-13 15:00:40,406] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-13 15:00:40,887] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-13 15:00:41,256] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-13 15:00:44,659]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:44,668] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 15:00:47,093] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 15:00:47,218] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 15:00:49,684] Search_Post - Step 04: Verify Search table contains: Live Coding Title 8347
+[2023-06-13 15:00:49,763]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:49,763] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 15:00:49,806]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:49,806] Search_Post - Step 06: Open End User site
+[2023-06-13 15:00:51,615] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 15:00:51,662]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:51,701]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:51,745]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:51,782]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:51,782] Search_Post - Step 08: Click to Post title
+[2023-06-13 15:00:53,071] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 15:00:53,121]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:53,159]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:53,194]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:53,239]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:00:53,240] Edit_Post - Step 01: Open admin site
+[2023-06-13 15:00:54,673] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 15:00:56,279] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-13 15:00:56,406] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 15:00:59,338] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-13 15:01:02,363] Edit_Post - Step 06: Edit post title
+[2023-06-13 15:01:02,768] Edit_Post - Step 07: Edit post body
+[2023-06-13 15:01:03,894] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-13 15:01:04,606] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-13 15:01:06,834]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:06,834] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 15:01:08,376] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 15:01:08,530] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 15:01:12,359] Search_Post - Step 04: Verify Search table contains: Edit Title 8347
+[2023-06-13 15:01:12,443]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:12,443] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 15:01:12,483]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:12,483] Search_Post - Step 06: Open End User site
+[2023-06-13 15:01:14,007] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 15:01:14,056]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:14,094]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:14,130]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:14,170]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:14,170] Search_Post - Step 08: Click to Post title
+[2023-06-13 15:01:15,491] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 15:01:15,547]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:15,581]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:15,617]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:15,653]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:01:15,852] OS name = Windows 10
+[2023-06-13 15:01:15,853] Driver instance name = firefoxdriver: firefox on windows (917f2a09-c45b-4fe0-b3ba-17ae7d995f9f)
+[2023-06-13 15:18:22,138] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-13 15:18:29,903] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-13 15:18:30,046] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-13 15:18:30,112] Pre-Condition - Step 04: Click to Login button
+[2023-06-13 15:18:33,230] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-13 15:18:35,127] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-13 15:18:35,130] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-13 15:18:38,206] Create_Post - Step 04: Enter to post title
+[2023-06-13 15:18:38,564] Create_Post - Step 05: Enter to body
+[2023-06-13 15:18:39,643] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-13 15:18:40,260] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-13 15:18:40,687] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-13 15:18:44,912]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:44,916] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 15:18:47,337] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 15:18:47,460] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 15:18:49,928] Search_Post - Step 04: Verify Search table contains: Live Coding Title 5689
+[2023-06-13 15:18:50,003]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:50,003] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 15:18:50,043]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:50,043] Search_Post - Step 06: Open End User site
+[2023-06-13 15:18:51,733] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 15:18:51,772]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:51,813]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:51,853]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:51,890]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:51,891] Search_Post - Step 08: Click to Post title
+[2023-06-13 15:18:53,246] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 15:18:53,292]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:53,329]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:53,370]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:53,406]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:18:53,409] Edit_Post - Step 01: Open admin site
+[2023-06-13 15:18:54,962] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 15:18:56,678] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-13 15:18:56,790] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 15:18:59,792] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-13 15:19:02,700] Edit_Post - Step 06: Edit post title
+[2023-06-13 15:19:03,153] Edit_Post - Step 07: Edit post body
+[2023-06-13 15:19:04,431] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-13 15:19:05,018] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-13 15:19:08,091]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:08,091] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 15:19:10,623] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 15:19:10,777] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 15:19:13,358] Search_Post - Step 04: Verify Search table contains: Edit Title 5689
+[2023-06-13 15:19:13,428]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:13,428] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 15:19:13,468]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:13,468] Search_Post - Step 06: Open End User site
+[2023-06-13 15:19:14,849] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 15:19:14,947]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:15,011]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:15,047]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:15,085]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:15,085] Search_Post - Step 08: Click to Post title
+[2023-06-13 15:19:16,347] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 15:19:16,478]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:16,539]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:16,576]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:16,610]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:19:16,612] Delete_Post - Step 01: Open admin site
+[2023-06-13 15:19:18,033] Delete_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 15:19:19,482] Delete_Post - Step 03: Enter to Search textbox
+[2023-06-13 15:19:19,600] Delete_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 15:19:22,168] Delete_Post - Step 05: Select Post detail checkbox
+[2023-06-13 15:19:22,444] Delete_Post - Step 06: Select 'Move to trash' item in dropdown
+[2023-06-13 15:19:23,093] Delete_Post - Step 07: Click to 'Apply' button
+[2023-06-13 15:19:25,628] Delete_Post - Step 08: Verify '1 post moved to the Trash.' message is displayed
+[2023-06-13 15:19:25,628] Delete_Post - Step 09: Enter to Search textbox
+[2023-06-13 15:19:25,712] Delete_Post - Step 10: Click to 'Search Post' button
+[2023-06-13 15:19:28,076] Delete_Post - Step 11: Verify 'No posts found.' message is displayed
+[2023-06-13 15:19:28,076] Delete_Post - Step 12: Open End User site
+[2023-06-13 15:19:29,339] Delete_Post - Step 13: Verify Post title undisplayed at Home page
+[2023-06-13 15:19:29,339] Delete_Post - Step 14: Enter to Search textbox
+[2023-06-13 15:19:29,339] Delete_Post - Step 15: Click to 'Search Post' button
+[2023-06-13 15:19:29,339] Delete_Post - Step 16: Verify 'Nothing Found' message is displayed
+[2023-06-13 15:19:29,345] OS name = Windows 10
+[2023-06-13 15:19:29,345] Driver instance name = firefoxdriver: firefox on windows (1facc173-65de-42ce-a91c-75ac7e1b8259)
+[2023-06-13 15:53:58,414] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-13 15:54:04,902] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-13 15:54:05,098] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-13 15:54:05,145] Pre-Condition - Step 04: Click to Login button
+[2023-06-13 15:54:08,532] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-13 15:54:10,211] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-13 15:54:10,214] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-13 15:54:13,479] Create_Post - Step 04: Enter to post title
+[2023-06-13 15:54:13,972] Create_Post - Step 05: Enter to body
+[2023-06-13 15:54:15,149] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-13 15:54:15,789] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-13 15:54:16,254] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-13 15:54:21,252]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:21,255] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 15:54:23,690] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 15:54:23,817] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 15:54:26,809] Search_Post - Step 04: Verify Search table contains: Live Coding Title 5617
+[2023-06-13 15:54:26,889]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:26,890] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 15:54:26,929]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:26,929] Search_Post - Step 06: Open End User site
+[2023-06-13 15:54:28,612] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 15:54:28,667]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:28,710]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:28,753]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:28,798]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:28,798] Search_Post - Step 08: Click to Post title
+[2023-06-13 15:54:30,180] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 15:54:30,244]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:30,283]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:30,329]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:30,366]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:30,369] Edit_Post - Step 01: Open admin site
+[2023-06-13 15:54:31,875] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 15:54:33,565] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-13 15:54:33,670] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 15:54:36,170] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-13 15:54:39,755] Edit_Post - Step 06: Edit post title
+[2023-06-13 15:54:40,168] Edit_Post - Step 07: Edit post body
+[2023-06-13 15:54:40,965] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-13 15:54:41,535] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-13 15:54:44,137]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:44,137] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 15:54:45,554] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 15:54:45,710] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 15:54:49,015] Search_Post - Step 04: Verify Search table contains: Edit Title 5617
+[2023-06-13 15:54:49,107]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:49,108] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 15:54:49,150]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:49,150] Search_Post - Step 06: Open End User site
+[2023-06-13 15:54:50,648] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 15:54:50,722]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:50,814]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:50,876]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:50,954]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:50,954] Search_Post - Step 08: Click to Post title
+[2023-06-13 15:54:52,494] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 15:54:52,548]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:52,584]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:52,626]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:52,664]  -------------------------- PASSED -------------------------- 
+[2023-06-13 15:54:52,667] Delete_Post - Step 01: Open admin site
+[2023-06-13 15:54:54,180] Delete_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 15:54:55,723] Delete_Post - Step 03: Enter to Search textbox
+[2023-06-13 15:54:55,821] Delete_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 15:54:58,469] Delete_Post - Step 05: Select Post detail checkbox
+[2023-06-13 15:54:58,764] Delete_Post - Step 06: Select 'Move to trash' item in dropdown
+[2023-06-13 15:54:59,034] Delete_Post - Step 07: Click to 'Apply' button
+[2023-06-13 15:55:01,783] Delete_Post - Step 08: Verify '1 post moved to the Trash.' message is displayed
+[2023-06-13 15:55:01,783] Delete_Post - Step 09: Enter to Search textbox
+[2023-06-13 15:55:01,875] Delete_Post - Step 10: Click to 'Search Post' button
+[2023-06-13 15:55:04,449] Delete_Post - Step 11: Verify 'No posts found.' message is displayed
+[2023-06-13 15:55:04,449] Delete_Post - Step 12: Open End User site
+[2023-06-13 15:55:05,999] Delete_Post - Step 13: Verify Post title undisplayed at Home page
+[2023-06-13 15:55:06,000] Delete_Post - Step 14: Enter to Search textbox
+[2023-06-13 15:55:06,088] Delete_Post - Step 15: Click to 'Search Post' button
+[2023-06-13 15:55:07,427] Delete_Post - Step 16: Verify 'Nothing Found' message is displayed
+[2023-06-13 15:55:07,429] OS name = Windows 10
+[2023-06-13 15:55:07,429] Driver instance name = firefoxdriver: firefox on windows (ac4bd36b-cb0c-484f-bb85-5832ee649268)
+[2023-06-13 16:37:22,747] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-13 16:37:31,983] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-13 16:37:32,170] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-13 16:37:32,217] Pre-Condition - Step 04: Click to Login button
+[2023-06-13 16:37:35,145] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-13 16:37:36,809] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-13 16:37:36,813] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-13 16:37:39,664] Create_Post - Step 04: Enter to post title
+[2023-06-13 16:37:40,077] Create_Post - Step 05: Enter to body
+[2023-06-13 16:37:41,203] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-13 16:37:41,676] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-13 16:37:42,265] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-13 16:37:46,345]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:46,349] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 16:37:49,147] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 16:37:49,370] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 16:37:52,259] Search_Post - Step 04: Verify Search table contains: Live Coding Title 3362
+[2023-06-13 16:37:52,351]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:52,352] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 16:37:52,393]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:52,393] Search_Post - Step 06: Open End User site
+[2023-06-13 16:37:54,236] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 16:37:54,288]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:54,325]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:54,366]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:54,402]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:54,402] Search_Post - Step 08: Click to Post title
+[2023-06-13 16:37:55,823] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 16:37:55,907]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:55,947]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:56,003]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:56,081]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:37:56,087] Edit_Post - Step 01: Open admin site
+[2023-06-13 16:37:57,693] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 16:37:59,605] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-13 16:37:59,718] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 16:38:02,699] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-13 16:38:05,879] Edit_Post - Step 06: Edit post title
+[2023-06-13 16:38:06,277] Edit_Post - Step 07: Edit post body
+[2023-06-13 16:38:07,664] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-13 16:38:08,291] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-13 16:38:11,303]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:11,303] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 16:38:13,952] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 16:38:14,041] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 16:38:16,731] Search_Post - Step 04: Verify Search table contains: Edit Title 3362
+[2023-06-13 16:38:16,801]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:16,801] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 16:38:16,840]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:16,840] Search_Post - Step 06: Open End User site
+[2023-06-13 16:38:18,303] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 16:38:18,357]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:18,399]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:18,434]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:18,469]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:18,469] Search_Post - Step 08: Click to Post title
+[2023-06-13 16:38:19,817] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 16:38:19,882]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:19,916]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:19,954]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:19,992]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:19,994] Delete_Post - Step 01: Open admin site
+[2023-06-13 16:38:21,449] Delete_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 16:38:22,935] Delete_Post - Step 03: Enter to Search textbox
+[2023-06-13 16:38:23,015] Delete_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 16:38:25,622] Delete_Post - Step 05: Select Post detail checkbox
+[2023-06-13 16:38:25,905] Delete_Post - Step 06: Select 'Move to trash' item in dropdown
+[2023-06-13 16:38:26,305] Delete_Post - Step 07: Click to 'Apply' button
+[2023-06-13 16:38:28,776] Delete_Post - Step 08: Verify '1 post moved to the Trash.' message is displayed
+[2023-06-13 16:38:28,878]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:38:28,878] Delete_Post - Step 09: Enter to Search textbox
+[2023-06-13 16:38:28,929] Delete_Post - Step 10: Click to 'Search Post' button
+[2023-06-13 16:38:31,304] Delete_Post - Step 11: Verify 'No posts found.' message is displayed
+[2023-06-13 16:38:31,304] Delete_Post - Step 12: Open End User site
+[2023-06-13 16:38:32,605] Delete_Post - Step 13: Verify Post title undisplayed at Home page
+[2023-06-13 16:38:32,605] Delete_Post - Step 14: Enter to Search textbox
+[2023-06-13 16:38:32,667] Delete_Post - Step 15: Click to 'Search Post' button
+[2023-06-13 16:38:33,903] Delete_Post - Step 16: Verify 'Nothing Found' message is displayed
+[2023-06-13 16:38:33,907] OS name = Windows 10
+[2023-06-13 16:38:33,907] Driver instance name = firefoxdriver: firefox on windows (540c4900-c60c-474c-a0dd-73c75bfd3bc5)
+[2023-06-13 16:49:35,597] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-13 16:49:42,336] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-13 16:49:42,530] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-13 16:49:42,583] Pre-Condition - Step 04: Click to Login button
+[2023-06-13 16:49:47,055] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-13 16:49:48,794] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-13 16:49:48,796] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-13 16:49:53,539] Create_Post - Step 04: Enter to post title
+[2023-06-13 16:49:53,961] Create_Post - Step 05: Enter to body
+[2023-06-13 16:49:55,239] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-13 16:49:56,093] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-13 16:49:56,658] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-13 16:50:00,076]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:00,080] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 16:50:01,643] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 16:50:01,782] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 16:50:04,501] Search_Post - Step 04: Verify Search table contains: Live Coding Title 1968
+[2023-06-13 16:50:04,579]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:04,579] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 16:50:04,624]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:04,624] Search_Post - Step 06: Open End User site
+[2023-06-13 16:50:06,519] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 16:50:06,602]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:06,647]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:06,685]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:06,742]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:06,742] Search_Post - Step 08: Click to Post title
+[2023-06-13 16:50:08,194] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 16:50:08,269]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:08,315]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:08,356]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:08,395]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:08,398] Edit_Post - Step 01: Open admin site
+[2023-06-13 16:50:10,290] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 16:50:13,425] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-13 16:50:13,626] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 16:50:17,187] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-13 16:50:20,434] Edit_Post - Step 06: Edit post title
+[2023-06-13 16:50:20,987] Edit_Post - Step 07: Edit post body
+[2023-06-13 16:50:22,386] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-13 16:50:23,379] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-13 16:50:25,986]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:25,986] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 16:50:28,395] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 16:50:28,513] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 16:50:31,156] Search_Post - Step 04: Verify Search table contains: Edit Title 1968
+[2023-06-13 16:50:31,225]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:31,225] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 16:50:31,267]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:31,267] Search_Post - Step 06: Open End User site
+[2023-06-13 16:50:32,696] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 16:50:32,784]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:32,840]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:32,877]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:32,913]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:32,913] Search_Post - Step 08: Click to Post title
+[2023-06-13 16:50:34,200] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 16:50:34,257]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:34,290]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:34,327]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:34,362]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:34,364] Delete_Post - Step 01: Open admin site
+[2023-06-13 16:50:35,822] Delete_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 16:50:37,421] Delete_Post - Step 03: Enter to Search textbox
+[2023-06-13 16:50:37,525] Delete_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 16:50:39,999] Delete_Post - Step 05: Select Post detail checkbox
+[2023-06-13 16:50:40,270] Delete_Post - Step 06: Select 'Move to trash' item in dropdown
+[2023-06-13 16:50:40,544] Delete_Post - Step 07: Click to 'Apply' button
+[2023-06-13 16:50:43,020] Delete_Post - Step 08: Verify '1 post moved to the Trash.' message is displayed
+[2023-06-13 16:50:43,099]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:43,099] Delete_Post - Step 09: Enter to Search textbox
+[2023-06-13 16:50:43,182] Delete_Post - Step 10: Click to 'Search Post' button
+[2023-06-13 16:50:45,913] Delete_Post - Step 11: Verify 'No posts found.' message is displayed
+[2023-06-13 16:50:45,988]  -------------------------- PASSED -------------------------- 
+[2023-06-13 16:50:45,988] Delete_Post - Step 12: Open End User site
+[2023-06-13 16:50:47,503] Delete_Post - Step 13: Verify Post title undisplayed at Home page
+[2023-06-13 16:50:47,503] Delete_Post - Step 14: Enter to Search textbox
+[2023-06-13 16:50:47,585] Delete_Post - Step 15: Click to 'Search Post' button
+[2023-06-13 16:50:49,020] Delete_Post - Step 16: Verify 'Nothing Found' message is displayed
+[2023-06-13 16:50:49,022] OS name = Windows 10
+[2023-06-13 16:50:49,022] Driver instance name = firefoxdriver: firefox on windows (c4388ade-6942-4c16-b257-802df71f30de)
+[2023-06-13 17:18:52,057] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-13 17:18:58,375] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-13 17:18:58,560] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-13 17:18:58,607] Pre-Condition - Step 04: Click to Login button
+[2023-06-13 17:19:01,384] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-13 17:19:02,989] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-13 17:19:02,991] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-13 17:19:05,883] Create_Post - Step 04: Enter to post title
+[2023-06-13 17:19:06,339] Create_Post - Step 05: Enter to body
+[2023-06-13 17:19:07,461] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-13 17:19:07,963] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-13 17:19:08,498] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-13 17:19:11,963]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:11,966] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 17:19:14,383] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 17:19:14,497] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 17:19:17,043] Search_Post - Step 04: Verify Search table contains: Live Coding Title 1426
+[2023-06-13 17:19:17,112]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:17,113] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 17:19:17,156]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:17,156] Search_Post - Step 06: Open End User site
+[2023-06-13 17:19:18,759] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 17:19:18,805]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:18,845]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:18,888]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:18,928]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:18,928] Search_Post - Step 08: Click to Post title
+[2023-06-13 17:19:20,182] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 17:19:20,231]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:20,276]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:20,320]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:20,360]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:20,365] Edit_Post - Step 01: Open admin site
+[2023-06-13 17:19:21,866] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 17:19:23,341] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-13 17:19:23,451] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 17:19:26,303] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-13 17:19:29,287] Edit_Post - Step 06: Edit post title
+[2023-06-13 17:19:29,680] Edit_Post - Step 07: Edit post body
+[2023-06-13 17:19:30,924] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-13 17:19:31,617] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-13 17:19:34,079]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:34,079] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 17:19:36,696] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 17:19:36,789] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 17:19:39,890] Search_Post - Step 04: Verify Search table contains: Edit Title 1426
+[2023-06-13 17:19:39,960]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:39,961] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 17:19:40,003]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:40,003] Search_Post - Step 06: Open End User site
+[2023-06-13 17:19:41,378] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 17:19:41,462]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:41,527]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:41,567]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:41,606]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:41,606] Search_Post - Step 08: Click to Post title
+[2023-06-13 17:19:43,009] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 17:19:43,085]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:43,124]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:43,158]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:43,204]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:43,206] Delete_Post - Step 01: Open admin site
+[2023-06-13 17:19:44,707] Delete_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 17:19:46,265] Delete_Post - Step 03: Enter to Search textbox
+[2023-06-13 17:19:46,355] Delete_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 17:19:49,030] Delete_Post - Step 05: Select Post detail checkbox
+[2023-06-13 17:19:49,312] Delete_Post - Step 06: Select 'Move to trash' item in dropdown
+[2023-06-13 17:19:49,572] Delete_Post - Step 07: Click to 'Apply' button
+[2023-06-13 17:19:52,076] Delete_Post - Step 08: Verify '1 post moved to the Trash.' message is displayed
+[2023-06-13 17:19:52,146]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:52,147] Delete_Post - Step 09: Enter to Search textbox
+[2023-06-13 17:19:52,194] Delete_Post - Step 10: Click to 'Search Post' button
+[2023-06-13 17:19:54,647] Delete_Post - Step 11: Verify 'No posts found.' message is displayed
+[2023-06-13 17:19:54,720]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:19:54,720] Delete_Post - Step 12: Open End User site
+[2023-06-13 17:19:56,076] Delete_Post - Step 13: Verify Post title undisplayed at Home page
+[2023-06-13 17:20:01,100]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:20:01,100] Delete_Post - Step 14: Enter to Search textbox
+[2023-06-13 17:20:01,228] Delete_Post - Step 15: Click to 'Search Post' button
+[2023-06-13 17:20:02,442] Delete_Post - Step 16: Verify 'Nothing Found' message is displayed
+[2023-06-13 17:20:02,442] OS name = Windows 10
+[2023-06-13 17:20:02,443] Driver instance name = firefoxdriver: firefox on windows (29eacdc0-a009-4a93-b5f2-547f60797762)
+[2023-06-13 17:34:45,765] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-13 17:34:52,626] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-13 17:34:52,774] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-13 17:34:52,824] Pre-Condition - Step 04: Click to Login button
+[2023-06-13 17:34:56,059] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-13 17:34:57,844] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-13 17:34:57,848] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-13 17:35:00,727] Create_Post - Step 04: Enter to post title
+[2023-06-13 17:35:01,211] Create_Post - Step 05: Enter to body
+[2023-06-13 17:35:02,475] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-13 17:35:02,940] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-13 17:35:03,428] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-13 17:35:06,952]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:07,056] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 17:35:09,634] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 17:35:09,842] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 17:35:12,651] Search_Post - Step 04: Verify Search table contains: Live Coding Title 175
+[2023-06-13 17:35:12,729]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:12,729] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 17:35:12,777]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:12,777] Search_Post - Step 06: Open End User site
+[2023-06-13 17:35:14,417] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 17:35:14,489]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:14,536]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:14,572]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:14,611]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:14,611] Search_Post - Step 08: Click to Post title
+[2023-06-13 17:35:15,968] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 17:35:16,019]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:16,059]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:16,102]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:16,193]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:16,196] Edit_Post - Step 01: Open admin site
+[2023-06-13 17:35:17,834] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 17:35:19,501] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-13 17:35:19,612] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 17:35:22,668] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-13 17:35:26,097] Edit_Post - Step 06: Edit post title
+[2023-06-13 17:35:26,639] Edit_Post - Step 07: Edit post body
+[2023-06-13 17:35:28,300] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-13 17:35:29,069] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-13 17:35:31,676]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:31,676] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 17:35:33,330] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 17:35:33,549] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 17:35:36,853] Search_Post - Step 04: Verify Search table contains: Edit Title 175
+[2023-06-13 17:35:36,927]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:36,927] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 17:35:36,967]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:36,967] Search_Post - Step 06: Open End User site
+[2023-06-13 17:35:38,404] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 17:35:38,463]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:38,504]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:38,546]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:38,581]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:38,581] Search_Post - Step 08: Click to Post title
+[2023-06-13 17:35:39,921] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 17:35:39,976]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:40,012]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:40,064]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:40,098]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:40,100] Delete_Post - Step 01: Open admin site
+[2023-06-13 17:35:41,611] Delete_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 17:35:43,159] Delete_Post - Step 03: Enter to Search textbox
+[2023-06-13 17:35:43,254] Delete_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 17:35:45,818] Delete_Post - Step 05: Select Post detail checkbox
+[2023-06-13 17:35:46,136] Delete_Post - Step 06: Select 'Move to trash' item in dropdown
+[2023-06-13 17:35:46,616] Delete_Post - Step 07: Click to 'Apply' button
+[2023-06-13 17:35:49,208] Delete_Post - Step 08: Verify '1 post moved to the Trash.' message is displayed
+[2023-06-13 17:35:49,278]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:49,279] Delete_Post - Step 09: Enter to Search textbox
+[2023-06-13 17:35:49,353] Delete_Post - Step 10: Click to 'Search Post' button
+[2023-06-13 17:35:51,871] Delete_Post - Step 11: Verify 'No posts found.' message is displayed
+[2023-06-13 17:35:51,942]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:51,942] Delete_Post - Step 12: Open End User site
+[2023-06-13 17:35:53,359] Delete_Post - Step 13: Verify Post title undisplayed at Home page
+[2023-06-13 17:35:58,381]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:35:58,381] Delete_Post - Step 14: Enter to Search textbox
+[2023-06-13 17:35:58,438] Delete_Post - Step 15: Click to 'Search Post' button
+[2023-06-13 17:35:59,683] Delete_Post - Step 16: Verify 'Nothing Found' message is displayed
+[2023-06-13 17:35:59,895] OS name = Windows 10
+[2023-06-13 17:35:59,895] Driver instance name = firefoxdriver: firefox on windows (45a2ea7f-f261-4967-8269-56f37b81d80f)
+[2023-06-13 17:37:03,487] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-13 17:37:10,588] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-13 17:37:10,859] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-13 17:37:10,933] Pre-Condition - Step 04: Click to Login button
+[2023-06-13 17:37:14,924] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-13 17:37:17,305] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-13 17:37:17,307] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-13 17:37:21,132] Create_Post - Step 04: Enter to post title
+[2023-06-13 17:37:21,574] Create_Post - Step 05: Enter to body
+[2023-06-13 17:37:23,017] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-13 17:37:23,652] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-13 17:37:24,470] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-13 17:37:29,045]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:29,048] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 17:37:30,792] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 17:37:31,012] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 17:37:34,252] Search_Post - Step 04: Verify Search table contains: Live Coding Title 4593
+[2023-06-13 17:37:34,371]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:34,371] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 17:37:34,438]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:34,438] Search_Post - Step 06: Open End User site
+[2023-06-13 17:37:36,521] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 17:37:36,631]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:36,678]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:36,720]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:36,760]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:36,761] Search_Post - Step 08: Click to Post title
+[2023-06-13 17:37:38,478] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 17:37:38,538]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:38,574]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:38,623]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:38,659]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:38,662] Edit_Post - Step 01: Open admin site
+[2023-06-13 17:37:40,489] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 17:37:42,295] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-13 17:37:42,396] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 17:37:45,146] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-13 17:37:48,109] Edit_Post - Step 06: Edit post title
+[2023-06-13 17:37:48,475] Edit_Post - Step 07: Edit post body
+[2023-06-13 17:37:49,494] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-13 17:37:50,152] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-13 17:37:52,395]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:52,395] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 17:37:54,910] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 17:37:55,029] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 17:37:57,997] Search_Post - Step 04: Verify Search table contains: Edit Title 4593
+[2023-06-13 17:37:58,091]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:58,091] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 17:37:58,180]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:58,181] Search_Post - Step 06: Open End User site
+[2023-06-13 17:37:59,672] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 17:37:59,740]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:59,781]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:59,820]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:59,853]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:37:59,854] Search_Post - Step 08: Click to Post title
+[2023-06-13 17:38:01,307] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 17:38:01,368]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:38:01,408]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:38:01,446]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:38:01,487]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:38:01,489] Delete_Post - Step 01: Open admin site
+[2023-06-13 17:38:03,079] Delete_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 17:38:04,803] Delete_Post - Step 03: Enter to Search textbox
+[2023-06-13 17:38:04,920] Delete_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 17:38:07,674] Delete_Post - Step 05: Select Post detail checkbox
+[2023-06-13 17:38:07,964] Delete_Post - Step 06: Select 'Move to trash' item in dropdown
+[2023-06-13 17:38:08,229] Delete_Post - Step 07: Click to 'Apply' button
+[2023-06-13 17:38:10,960] Delete_Post - Step 08: Verify '1 post moved to the Trash.' message is displayed
+[2023-06-13 17:38:11,098]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:38:11,099] Delete_Post - Step 09: Enter to Search textbox
+[2023-06-13 17:38:11,173] Delete_Post - Step 10: Click to 'Search Post' button
+[2023-06-13 17:38:14,065] Delete_Post - Step 11: Verify 'No posts found.' message is displayed
+[2023-06-13 17:38:14,151]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:38:14,151] Delete_Post - Step 12: Open End User site
+[2023-06-13 17:38:15,816] Delete_Post - Step 13: Verify Post title undisplayed at Home page
+[2023-06-13 17:38:20,846]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:38:20,846] Delete_Post - Step 14: Enter to Search textbox
+[2023-06-13 17:38:20,899] Delete_Post - Step 15: Click to 'Search Post' button
+[2023-06-13 17:38:22,216] Delete_Post - Step 16: Verify 'Nothing Found' message is displayed
+[2023-06-13 17:38:52,413] OS name = Windows 10
+[2023-06-13 17:38:52,413] Driver instance name = firefoxdriver: firefox on windows (c8ce5a71-43af-4557-92f0-9c5008e1e548)
+[2023-06-13 17:40:13,961] Pre-Condition - Step 01: Open browser and Admin site
+[2023-06-13 17:40:20,362] Pre-Condition - Step 02: Enter to Username textbox with value: automationfc
+[2023-06-13 17:40:20,536] Pre-Condition - Step 03: Enter to Password textbox with value: automationfc
+[2023-06-13 17:40:20,578] Pre-Condition - Step 04: Click to Login button
+[2023-06-13 17:40:38,307] Create_Post - Step 01: Click to 'Posts' menu link
+[2023-06-13 17:40:40,009] Create_Post - Step 02: Get 'Search Posts' page url
+[2023-06-13 17:40:40,011] Create_Post - Step 03: Click to 'Add New' button
+[2023-06-13 17:40:42,905] Create_Post - Step 04: Enter to post title
+[2023-06-13 17:40:43,334] Create_Post - Step 05: Enter to body
+[2023-06-13 17:40:44,491] Create_Post - Step 06: Click to 'Publish' button
+[2023-06-13 17:40:45,091] Create_Post - Step 07: Click to 'Pre-Publish' button
+[2023-06-13 17:40:45,566] Create_Post - Step 08: Verify 'Post published' message is displayed
+[2023-06-13 17:40:50,791]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:50,795] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 17:40:52,217] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 17:40:52,368] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 17:40:55,095] Search_Post - Step 04: Verify Search table contains: Live Coding Title 9317
+[2023-06-13 17:40:55,179]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:55,179] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 17:40:55,224]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:55,224] Search_Post - Step 06: Open End User site
+[2023-06-13 17:40:56,900] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 17:40:56,960]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:57,008]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:57,049]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:57,088]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:57,088] Search_Post - Step 08: Click to Post title
+[2023-06-13 17:40:58,454] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 17:40:58,505]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:58,540]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:58,579]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:58,626]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:40:58,628] Edit_Post - Step 01: Open admin site
+[2023-06-13 17:41:00,168] Edit_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 17:41:01,752] Edit_Post - Step 03: Enter to Search textbox
+[2023-06-13 17:41:01,847] Edit_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 17:41:05,935] Edit_Post - Step 05: Click to Post title link and navigate to Edit Post page
+[2023-06-13 17:41:10,568] Edit_Post - Step 06: Edit post title
+[2023-06-13 17:41:11,115] Edit_Post - Step 07: Edit post body
+[2023-06-13 17:41:12,844] Edit_Post - Step 08: Click to 'Update' button
+[2023-06-13 17:41:14,084] Edit_Post - Step 09: Verify 'Post updated.' message is displayed
+[2023-06-13 17:41:17,815]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:17,815] Search_Post - Step 01: Open 'Search Post' page
+[2023-06-13 17:41:20,337] Search_Post - Step 02: Enter to Search textbox
+[2023-06-13 17:41:20,590] Search_Post - Step 03: Click to 'Search Post' button
+[2023-06-13 17:41:24,465] Search_Post - Step 04: Verify Search table contains: Edit Title 9317
+[2023-06-13 17:41:24,586]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:24,586] Search_Post - Step 05: Verify Search table contains: automationfc
+[2023-06-13 17:41:24,648]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:24,648] Search_Post - Step 06: Open End User site
+[2023-06-13 17:41:26,518] Search_Post - Step 07: Verify Post info displayed at Home page
+[2023-06-13 17:41:26,569]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:26,609]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:26,651]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:26,684]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:26,684] Search_Post - Step 08: Click to Post title
+[2023-06-13 17:41:28,485] Search_Post - Step 09: Verify Post info displayed at Post Detail page
+[2023-06-13 17:41:28,542]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:28,576]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:28,615]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:28,656]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:28,658] Delete_Post - Step 01: Open admin site
+[2023-06-13 17:41:30,298] Delete_Post - Step 02: Click to 'Posts' menu link
+[2023-06-13 17:41:31,894] Delete_Post - Step 03: Enter to Search textbox
+[2023-06-13 17:41:32,093] Delete_Post - Step 04: Click to 'Search Posts' button
+[2023-06-13 17:41:35,073] Delete_Post - Step 05: Select Post detail checkbox
+[2023-06-13 17:41:35,404] Delete_Post - Step 06: Select 'Move to trash' item in dropdown
+[2023-06-13 17:41:35,816] Delete_Post - Step 07: Click to 'Apply' button
+[2023-06-13 17:41:38,423] Delete_Post - Step 08: Verify '1 post moved to the Trash.' message is displayed
+[2023-06-13 17:41:38,507]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:38,507] Delete_Post - Step 09: Enter to Search textbox
+[2023-06-13 17:41:38,554] Delete_Post - Step 10: Click to 'Search Post' button
+[2023-06-13 17:41:41,755] Delete_Post - Step 11: Verify 'No posts found.' message is displayed
+[2023-06-13 17:41:41,861]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:41,861] Delete_Post - Step 12: Open End User site
+[2023-06-13 17:41:44,512] Delete_Post - Step 13: Verify Post title undisplayed at Home page
+[2023-06-13 17:41:49,529]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:49,529] Delete_Post - Step 14: Enter to Search textbox
+[2023-06-13 17:41:49,584] Delete_Post - Step 15: Click to 'Search Post' button
+[2023-06-13 17:41:51,740] Delete_Post - Step 16: Verify 'Nothing Found' message is displayed
+[2023-06-13 17:41:51,781]  -------------------------- PASSED -------------------------- 
+[2023-06-13 17:41:51,783] OS name = Windows 10
+[2023-06-13 17:41:51,783] Driver instance name = firefoxdriver: firefox on windows (eb51253e-14bf-42a8-89c0-75bd4d9e7d4b)
