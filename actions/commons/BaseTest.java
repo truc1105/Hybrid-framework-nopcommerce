@@ -66,7 +66,7 @@ public class BaseTest {
 	
 	}
 	
-	protected WebDriver getBrowserDriver(String browserName, String appURL) {
+	protected WebDriver getBrowserDriver(String browserName, String environmentName) {
 
 		if (browserName.equals("firefox")) {
 			//System.setProperty("webdriver.gecko.driver", projectPath + "\\browserDrivers\\geckodriver.exe");
@@ -95,7 +95,7 @@ public class BaseTest {
 			throw new RuntimeException("Browser name invalid.");
 		}
 	driver.manage().timeouts().implicitlyWait(GlobalConstants.LONG_TIMEOUT, TimeUnit.SECONDS);
-	driver.get(appURL);
+	driver.get(getEnvironmentUrl(environmentName));
 	
 	return driver;
 	
@@ -105,9 +105,24 @@ public class BaseTest {
 		return this.driver;
 	}
 	
-	protected String getEnvironmentUrl(String serverName) {
+	protected String getEnvironmentUrl(String environmentName) {
 		String envURL = null;
-		EnvironmentList environment = EnvironmentList.valueOf(serverName.toUpperCase());
+		EnvironmentList environment = EnvironmentList.valueOf(environmentName.toUpperCase());
+		
+		switch(environment) {
+		case DEV:
+			envURL = "https://demo.nopcommerce.com/";
+			break;
+		case TESTING:
+			envURL = "https://";
+			break;
+		case STAGING:
+			envURL = "https://";
+			break;
+		default:
+			envURL = null;
+			break;
+		}
 		
 		return envURL;
 	}
