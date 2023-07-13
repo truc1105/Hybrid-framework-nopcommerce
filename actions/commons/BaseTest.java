@@ -66,6 +66,43 @@ public class BaseTest {
 	
 	}
 	
+	
+	protected WebDriver getBrowserDriverURL(String browserName, String URL) {
+
+		if (browserName.equals("firefox")) {
+			//System.setProperty("webdriver.gecko.driver", projectPath + "\\browserDrivers\\geckodriver.exe");
+			WebDriverManager.firefoxdriver().setup();
+			driver = new FirefoxDriver();
+		} else if (browserName.equals("chrome")) {
+			//System.setProperty("webdriver.chrome.driver", projectPath + "\\browserDrivers\\chromedriver.exe");
+			WebDriverManager.chromedriver().setup();
+			driver = new ChromeDriver();
+		} else if (browserName.equals("edge")) {
+			//System.setProperty("webdriver.edge.driver", projectPath + "\\browserDrivers\\msedgedriver.exe");
+			WebDriverManager.edgedriver().setup();
+			driver = new EdgeDriver();
+		} else if (browserName.equals("coccoc")) {
+			WebDriverManager.chromedriver().driverVersion("108.0.5359.22").setup();
+			ChromeOptions options = new ChromeOptions();
+			
+			if(GlobalConstants.OS_NAME.startsWith("Windows")) {
+				options.setBinary("C:\\Program Files\\CocCoc\\Browser\\Application\\browser.exe");
+			} else {
+				options.setBinary(" ");
+			}
+			
+			driver = new ChromeDriver(options);
+		} else {
+			throw new RuntimeException("Browser name invalid.");
+		}
+	driver.manage().timeouts().implicitlyWait(GlobalConstants.LONG_TIMEOUT, TimeUnit.SECONDS);
+	driver.get(URL);
+	
+	return driver;
+	
+	}
+	
+	
 	protected WebDriver getBrowserDriver(String browserName, String environmentName) {
 
 		if (browserName.equals("firefox")) {

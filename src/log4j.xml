@@ -35,7 +35,7 @@
 		</layout>
 	</appender>
 
-	<category name="com.nopcommerce.user">
+	<category name="com.wordpress.admin">
 		<priority value="all" />
 		<appender-ref ref="console" />
 		<appender-ref ref="logfile" />

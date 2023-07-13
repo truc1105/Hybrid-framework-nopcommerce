@@ -47,7 +47,7 @@ public class Post_01_Create_Read_Update_Delete_Search extends BaseTest{
 		log.info("Pre-Condition - Step 01: Open browser and Admin site");
 		this.adminUrl = adminUrl;
 		this.endUserUrl = endUserUrl;
-		driver = getBrowserDriver(browserName, this.adminUrl);
+		driver = getBrowserDriverURL(browserName, this.adminUrl);
 		adminLoginPage = PageGeneratorManagerWP.getAdminLoginPage(driver);
 		
 		log.info("Pre-Condition - Step 02: Enter to Username textbox with value: " + adminUsername);
